@@ -17,6 +17,7 @@ jobs:
             - name: Fetch latest Data file
               run: |-
                   curl "https://thechels.uk/feed" > _data/thechels.xml
+                  curl "https://thechels.uk/feed.json" > _data/thechels.json
 
             - name: Commit and push
               run: |-
