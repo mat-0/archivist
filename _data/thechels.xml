@@ -1,1 +1,220 @@
-First Commit
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-04-20T06:03:54+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Default styles for h1 elements are changing</title><link href="https://thechels.uk/default-styles-for-h1-elements-are-changing" rel="alternate" type="text/html" title="Default styles for h1 elements are changing" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://thechels.uk/default-styles-for-h1-elements-are-changing</id><content type="html" xml:base="https://thechels.uk/default-styles-for-h1-elements-are-changing"><![CDATA[<blockquote>
+  <p>Browsers are starting to roll out changes in default UA styles for nested section headings. Developers should check that their sites don’t rely on UA styles for certain cases to avoid unexpected results and failing Lighthouse checks. In this post, we’ll have a look at what the incoming changes are, how to identify if it’s an issue on your pages, and some hints for conformant and better-structured websites.</p>
+</blockquote>
+
+<blockquote>
+  <p>What’s changing
+The HTML spec used to define an outline algorithm that gave &lt;h1&gt; elements an implicit semantic heading level based on how many sectioning elements (&lt;section&gt;, &lt;aside&gt;, &lt;nav&gt;, and &lt;article&gt;) it was nested inside.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Browsers are starting to roll out changes in default UA styles for nested section headings. Developers should check that their sites don’t rely on UA styles for certain cases to avoid unexpected results and failing Lighthouse checks. In this post, we’ll have a look at what the incoming changes are, how to identify if it’s an issue on your pages, and some hints for conformant and better-structured websites.]]></summary></entry><entry><title type="html">How to Win an Argument With a Toddler</title><link href="https://thechels.uk/how-to-win-an-argument-with-a-toddler" rel="alternate" type="text/html" title="How to Win an Argument With a Toddler" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://thechels.uk/how-to-win-an-argument-with-a-toddler</id><content type="html" xml:base="https://thechels.uk/how-to-win-an-argument-with-a-toddler"><![CDATA[<blockquote>
+  <p>You can’t.</p>
+
+  <p>That’s because toddlers don’t understand what an argument is and aren’t interesting in having one.</p>
+
+  <p>Toddlers (which includes defensive bureaucrats, bullies, flat earthers, folks committed to a specific agenda and radio talk show hosts) may indicate that they’d like to have an argument, but they’re actually engaging in connection, noise, play acting or a chance to earn status. It can be fun to be in opposition, to harangue or even to use power to change someone’s position.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[You can’t. That’s because toddlers don’t understand what an argument is and aren’t interesting in having one. Toddlers (which includes defensive bureaucrats, bullies, flat earthers, folks committed to a specific agenda and radio talk show hosts) may indicate that they’d like to have an argument, but they’re actually engaging in connection, noise, play acting or a chance to earn status. It can be fun to be in opposition, to harangue or even to use power to change someone’s position.]]></summary></entry><entry><title type="html">Seven phrases when sharing feedback that makes it easier</title><link href="https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier" rel="alternate" type="text/html" title="Seven phrases when sharing feedback that makes it easier" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier</id><content type="html" xml:base="https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier"><![CDATA[<blockquote>
+  <p>With that, here are 7 phrases I often use when sharing feedback that makes it easier for me to speak openly and quickly, and encourages my recipient to take action.</p>
+
+  <ol>
+    <li>“This is a great start”</li>
+    <li>“I noticed”</li>
+    <li>“At the same time”</li>
+    <li>“Even more”</li>
+    <li>“I believe you were trying to do x, but it doesn’t quite work because y. I recommend trying z.”</li>
+    <li>“Already”</li>
+    <li>“Based on the data points I have around x…”</li>
+  </ol>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[With that, here are 7 phrases I often use when sharing feedback that makes it easier for me to speak openly and quickly, and encourages my recipient to take action. “This is a great start” “I noticed” “At the same time” “Even more” “I believe you were trying to do x, but it doesn’t quite work because y. I recommend trying z.” “Already” “Based on the data points I have around x…”]]></summary></entry><entry><title type="html">Lyrical juxtaposition</title><link href="https://thechels.uk/lyrical-juxtaposition" rel="alternate" type="text/html" title="Lyrical juxtaposition" /><published>2025-04-18T00:00:00+00:00</published><updated>2025-04-18T00:00:00+00:00</updated><id>https://thechels.uk/lyrical-juxtaposition</id><content type="html" xml:base="https://thechels.uk/lyrical-juxtaposition"><![CDATA[<p>A couple of songs came up sequentially today that seemed appropriate for the times.</p>
+
+<blockquote>
+  <p>There are some bad people on the rise
+They’re saving their own skins by
+Ruining people’s lives</p>
+</blockquote>
+
+<ul>
+  <li>Interesting Drug, Morrissey</li>
+</ul>
+
+<blockquote>
+  <p>But the leaders of the free world
+Are just little boys throwin’ stones 
+And it’s easy to ignore
+Till they’re knockin’ on the door of your homes, oh yeah</p>
+</blockquote>
+
+<ul>
+  <li>Leaders of the free world, Elbow</li>
+</ul>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[A couple of songs came up sequentially today that seemed appropriate for the times.]]></summary></entry><entry><title type="html">Slobsquatting</title><link href="https://thechels.uk/slobsquatting" rel="alternate" type="text/html" title="Slobsquatting" /><published>2025-04-18T00:00:00+00:00</published><updated>2025-04-18T00:00:00+00:00</updated><id>https://thechels.uk/slobsquatting</id><content type="html" xml:base="https://thechels.uk/slobsquatting"><![CDATA[<blockquote>
+  <p><strong>Slopsquatting</strong> – when an LLM hallucinates a non-existent package name, and a bad actor registers it maliciously. The AI brother of typosquatting.</p>
+
+  <p>Credit to <a href="https://fosstodon.org/@sethmlarson">@sethmlarson</a> for the name</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Slopsquatting – when an LLM hallucinates a non-existent package name, and a bad actor registers it maliciously. The AI brother of typosquatting. Credit to @sethmlarson for the name]]></summary></entry><entry><title type="html">AI crawler wars threaten the web</title><link href="https://thechels.uk/ai-crawler-wars-threaten-the-web" rel="alternate" type="text/html" title="AI crawler wars threaten the web" /><published>2025-04-08T00:00:00+00:00</published><updated>2025-04-08T00:00:00+00:00</updated><id>https://thechels.uk/ai-crawler-wars-threaten-the-web</id><content type="html" xml:base="https://thechels.uk/ai-crawler-wars-threaten-the-web"><![CDATA[<p>AI crawler wars threaten to make the web more closed for everyone</p>
+
+<blockquote>
+  <p>AI crawler wars threaten to make the web more closed for everyone
+There’s an accelerating cat-and-mouse game between web publishers and AI crawlers, and we all stand to lose. </p>
+
+  <p>We often take the internet for granted. It’s an ocean of information at our fingertips—and it simply works. But this system relies on swarms of “crawlers”—bots that roam the web, visit millions of websites every day, and report what they see. This is how Google powers its search engines, how Amazon sets competitive prices, and how Kayak aggregates travel listings. Beyond the world of commerce, crawlers are essential for monitoring web security, enabling accessibility tools, and preserving historical archives. Academics, journalists, and civil societies also rely on them to conduct crucial investigative research.  </p>
+
+  <p>Crawlers are endemic. Now representing half of all internet traffic, they will soon outpace human traffic. This unseen subway of the web ferries information from site to site, day and night. And as of late, they serve one more purpose: Companies such as OpenAI use web-crawled data to train their artificial intelligence systems, like ChatGPT.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[AI crawler wars threaten to make the web more closed for everyone]]></summary></entry><entry><title type="html">And no, a robots txt file doesn’t help</title><link href="https://thechels.uk/and-no-a-robots-txt-file-doesn-t-help" rel="alternate" type="text/html" title="And no, a robots txt file doesn’t help" /><published>2025-04-08T00:00:00+00:00</published><updated>2025-04-08T00:00:00+00:00</updated><id>https://thechels.uk/and-no-a-robots-txt-file-doesn%E2%80%99t-help</id><content type="html" xml:base="https://thechels.uk/and-no-a-robots-txt-file-doesn-t-help"><![CDATA[<blockquote>
+  <p>If you think these crawlers respect robots.txt then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, robots.txt be damned.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[If you think these crawlers respect robots.txt then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, robots.txt be damned.]]></summary></entry><entry><title type="html">Micro-Scrum</title><link href="https://thechels.uk/micro-scrum" rel="alternate" type="text/html" title="Micro-Scrum" /><published>2025-04-08T00:00:00+00:00</published><updated>2025-04-08T00:00:00+00:00</updated><id>https://thechels.uk/micro-scrum</id><content type="html" xml:base="https://thechels.uk/micro-scrum"><![CDATA[<blockquote>
+  <p>Imagine you worked like this:</p>
+
+  <p>At the start of the week: Get together with the team to decide what to ship—bring live—at the end of the week. Ideally, everyone contributes, but this is intentionally not a requirement.</p>
+
+  <p>At the end of the week: Get together and look at what was shipped. Everyone high-fives or, together, lands on one lesson to learn.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Imagine you worked like this: At the start of the week: Get together with the team to decide what to ship—bring live—at the end of the week. Ideally, everyone contributes, but this is intentionally not a requirement. At the end of the week: Get together and look at what was shipped. Everyone high-fives or, together, lands on one lesson to learn.]]></summary></entry><entry><title type="html">Lessons learned by Emmett Shear</title><link href="https://thechels.uk/lessons-learned-by-emmett-shear" rel="alternate" type="text/html" title="Lessons learned by Emmett Shear" /><published>2025-04-06T00:00:00+00:00</published><updated>2025-04-06T00:00:00+00:00</updated><id>https://thechels.uk/lessons-learned-by-emmett-shear</id><content type="html" xml:base="https://thechels.uk/lessons-learned-by-emmett-shear"><![CDATA[<ul>
+  <li>
+    <p>In honour of the 10th anniversary of launching Twitch, I thought I’d share some of the lessons I learned along the way.</p>
+  </li>
+  <li>
+    <p>Most of these insights are things I heard someone else say. They’re the things that I find myself telling people when they ask me for advice.</p>
+  </li>
+  <li>
+    <p>Make something 10 people completely love, not something most people think is pretty good.</p>
+  </li>
+  <li>
+    <p>If your product is for consumers, either it’s a daily habit, or it’s used consistently in response to an external trigger, or it’s not going to grow.</p>
+  </li>
+  <li>
+    <p>There are only five growth strategies that exist: high-touch sales, paid advertising, intrinsic virality, intrinsic influencer incentives, and platform hacks.</p>
+  </li>
+  <li>
+    <p>Press isn’t a growth strategy, and neither is word of mouth.</p>
+  </li>
+  <li>
+    <p>Your product probably only fits one growth strategy.</p>
+  </li>
+  <li>
+    <p>For internet companies, growth is more important than profit. It’s very rare for a company to achieve massive scale of use, and then die because they can’t figure out the economics. The reverse is common.</p>
+  </li>
+  <li>
+    <p>Ignore your competitors, but don’t ignore their customers.</p>
+  </li>
+  <li>
+    <p>If you’re a first time manager, you suck. That’s ok, everyone sucks. Apologize to your employees, get a coach or join a support group, read books, and generally treat management like a new important skill you can master.</p>
+  </li>
+  <li>
+    <p>Every time you add a layer of hierarchy underneath you, your job as a leader changes against and gets harder. You have to keep learning and growing. Note: good reason not to hire too fast!</p>
+  </li>
+  <li>
+    <p>You know when you need to hire: when you just can’t keep up with all the work, and desperately need someone else to take over some part of the job.</p>
+  </li>
+  <li>
+    <p>Plans are useless, but planning is essential.</p>
+  </li>
+  <li>
+    <p>Your time horizon for strategic planning should approximately be equal to the length of time your organization has existed so far.</p>
+  </li>
+  <li>
+    <p>Over time, develop a huge vision that’s bigger than any specific thing you’re working on. Put it as far in the future, and make it as huge, as you have the guts to.</p>
+  </li>
+  <li>
+    <p>You think you have a morale problem; a management problem; a recruiting problem; you don’t. You have a growth problem. Nothing succeeds like success.</p>
+  </li>
+  <li>
+    <p>Three ways to have a startup idea: something you want, something you’ve directly experienced others needing, something you’ve invented through analytic thought. They are listed in order of increasing risk.</p>
+  </li>
+  <li>
+    <p>Your culture is determined by what people perceive to be the behaviors you reward and punish. Note: Not what you actually reward and punish, and also not what you say you reward and punish.</p>
+  </li>
+  <li>
+    <p>Company cultures are reflection of their founders. To change your company’s culture, seek to change how you behave. To change your company’s values, seek to change what you value.</p>
+  </li>
+  <li>
+    <p>Letting an underperforming employee go is difficult and painful. You invested a lot in hiring them, and you want them to succeed. As a result you will almost always fire too late.</p>
+  </li>
+  <li>
+    <p>Presume deals won’t close and manage accordingly. Not only do deals fall through as a default, if you need the deal to close it impacts negotiations and actually makes it less likely to close.</p>
+  </li>
+  <li>
+    <p>Do the job before you hire for it. You know nothing about X, so you think you need to hire an expert in X. But you can’t tell which experts are any good until you’ve learned enough to be dangerous yourself. (Exception: co-founders)</p>
+  </li>
+  <li>
+    <p>Don’t start a company. You aren’t cut out for it. And if I can persuade you not to start a company by saying it in this tweet, definitely don’t start a company. You’re buying the economy-sized amount of effort and pain.</p>
+  </li>
+  <li>
+    <p>Today is the best time ever to start a company. You might fail, you might succeed, it’s a crazy ride either way, and you’ll learn and grow more than at any job.</p>
+  </li>
+</ul>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[In honour of the 10th anniversary of launching Twitch, I thought I’d share some of the lessons I learned along the way.]]></summary></entry><entry><title type="html">44 engineering management lessons</title><link href="https://thechels.uk/44-engineering-management-lessons" rel="alternate" type="text/html" title="44 engineering management lessons" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://thechels.uk/44-engineering-management-lessons</id><content type="html" xml:base="https://thechels.uk/44-engineering-management-lessons"><![CDATA[<p>Welcome to engineering management. It’s fun, it’s exhausting, it’s rewarding — but most importantly it’s new! What worked for you before won’t work now. You’ll have to acquire a new set of skills, and shed some bad habits in the process. Here is a short guide to get you started.</p>
+
+<h2 id="do">Do</h2>
+
+<ul>
+  <li>Attract, nurture, coach, and retain talent. Talk to engineers to tease out concerns early, then fix them if you can.</li>
+  <li>Communicate to every engineer the next most important issue for them to work on.</li>
+  <li>Be the tiebreaker when the development team can’t reach consensus.</li>
+  <li>Be the information hub. Know what every engineer is working on, and help connect the dots that wouldn’t otherwise get connected.</li>
+  <li>Provide administrative support. Schedule issues, coordinate releases, and make sure the bureaucratic machine keeps ticking.</li>
+  <li>Enforce behavioural and performance standards. Fire bullies and under-performers.</li>
+</ul>
+
+<h2 id="dont">Don’t</h2>
+
+<ul>
+  <li>Personally fix bugs and ship features. You have to write code to remain an effective tiebreaker, but that’s where your coding responsibilities end.</li>
+  <li>Supervise the quality and volume of people’s work. Software engineering isn’t an assembly line. If you find yourself supervising too often, you haven’t attracted the right people or given them the right incentives.</li>
+</ul>
+
+<h2 id="motivation-and-culture">Motivation and culture</h2>
+
+<ul>
+  <li>You’re the one who makes hiring and firing decisions. Everything that happens on your team is your responsibility.</li>
+  <li>Engineering is a seller’s market: people work for you because they believe in you. Access to their talent is a privilege.</li>
+  <li>Authority isn’t bestowed freely. It’s earned by making good decisions over time.</li>
+  <li>Don’t make decisions unless you have to. Whenever possible, allow the team to explore ideas and make decisions on its own.</li>
+  <li>Do make decisions when it’s necessary. Few things are as demoralizing as a stalled team.</li>
+  <li>Don’t shoot down ideas until it’s necessary. Create an environment where everyone feels safe to share and explore ideas. The folks writing the code have a lot of information you don’t. Rely on your team and you’ll make better decisions.</li>
+  <li>Building intuition on how to make good decisions and cultivating a great relationship with your team will get you 95% of the way there. The plethora of conceptual frameworks for organizing engineering teams won’t make much difference. They make good managers slightly better and bad managers slightly worse.</li>
+</ul>
+
+<h2 id="emotions-and-people">Emotions and people</h2>
+
+<ul>
+  <li>Management happens to be prestigious in our culture, but it’s a skill like any other. Prestige is a distraction — it’s fickle and arbitrary. Guard against believing you’re any better than anyone else. The sooner you get over prestige, the sooner you can focus on doing your job well.</li>
+  <li>Management also attracts scorn. Ignore it — the people who believe managers are useless don’t understand the dynamics of building a winning human organization.</li>
+  <li>If you feel something’s wrong, you’re probably right. Don’t let anyone bully you into ignoring your feelings.</li>
+  <li>If you find yourself blaming someone, you’re probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.</li>
+  <li>Most people won’t easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.</li>
+  <li>Your team looks to you for leadership. Have the courage to say what everyone knows to be true but isn’t saying.</li>
+  <li>You’re paid to discover and fix cultural problems your team may not be aware of. Have the courage to say what everyone should know but doesn’t.</li>
+  <li>Hire great people, then trust them completely. Evaluate performance on monthly or quarterly basis, then fire if you have to. Don’t evaluate people daily, it will drive everyone (including you) insane.</li>
+  <li>Most intellectual arguments have strong emotional undercurrents. You’ll be dramatically more efficient once you learn to figure out what those are.</li>
+</ul>
+
+<h2 id="tie-breaking-and-conflict">Tie-breaking and conflict</h2>
+
+<ul>
+  <li>Don’t judge too quickly; you’re right less often than you think. Even if you’re sure you’re right in any given case, wait until everyone’s opinion is heard.</li>
+  <li>Once everyone is heard, summarize all points of view so clearly that people say “Thanks, I wish I’d thought of putting it that way.” List any points of agreement with each view, and state what you’ve learned from everyone. Then make your decision.</li>
+  <li>Once you’ve made your decision, enforce it. Don’t let the team waste time going in circles to placate disproportionally strong voices.</li>
+  <li>Reopen the discussion if there is significant new information.</li>
+  <li>When disagreement gets personal or people don’t accept well-reasoned decisions, it turns into conflict.</li>
+  <li>Most conflict happens because people don’t feel heard. Sit down with each person and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.</li>
+  <li>If the conflict persists after you’ve gone to reasonable lengths to hear everyone out and fix problems, it’s time for a difficult conversation.</li>
+</ul>
+
+<h2 id="difficult-conversations">Difficult conversations</h2>
+
+<ul>
+  <li>Have difficult conversations as soon as possible. Waiting will only make a bad situation worse.</li>
+  <li>Never assume or jump to conclusions. Never demonize people in your mind. Never blame, yell or vilify.</li>
+  <li>Use non-violent communication — it’s the best method I know of to critique people’s behavior without offending them. It smells like a management fad, but it really works (I promise).</li>
+  <li>Have the courage to state how you feel and what you need. People are drawn to each other’s vulnerability but repelled by their own. Vulnerability isn’t weakness.</li>
+  <li>Expect people to extend you the same courtesy. If someone makes you feel bad for stating your needs and feelings, it tells you more about them than about yourself.</li>
+</ul>
+
+<h2 id="rough-edge">Rough edge</h2>
+
+<ul>
+  <li>People will push and prod to discover your boundaries. Knowing when to stand back and when to stand firm is half the battle.</li>
+  <li>Occasionally someone will push too far. When they do, you have to show a rough edge or you’ll lose authority with your team.</li>
+  <li>A firm “I’m not ok with that” is usually enough.</li>
+  <li>Don’t laugh things off if you don’t feel like laughing them off. Have the courage to show your true emotions.</li>
+  <li>If you have to firmly say “I’m not ok with that” too many times to the same person, it’s your job to fire them.</li>
+  <li>Unless you’re a sociopath, firing people is so hard you’ll invent excuses not to do it. If you’re consistently wondering if someone’s a good fit for too long, have the courage to do what you know is right.</li>
+  <li>Don’t let people pressure you into decisions you don’t believe in. They’ll hold you responsible for them later, and they’ll be right. Decisions are your responsibility.</li>
+  <li>Believe in yourself. You can’t lead a cavalry charge if you think you look funny on a horse.</li>
+</ul>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Welcome to engineering management. It’s fun, it’s exhausting, it’s rewarding — but most importantly it’s new! What worked for you before won’t work now. You’ll have to acquire a new set of skills, and shed some bad habits in the process. Here is a short guide to get you started.]]></summary></entry></feed>
