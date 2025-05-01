@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-01T06:04:41+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">People are not good at maths</title><link href="https://thechels.uk/people-maths-bad" rel="alternate" type="text/html" title="People are not good at maths" /><published>2025-04-28T00:00:00+00:00</published><updated>2025-04-28T00:00:00+00:00</updated><id>https://thechels.uk/people-maths-bad</id><content type="html" xml:base="https://thechels.uk/people-maths-bad"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-01T20:09:55+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Giving software away for free</title><link href="https://thechels.uk/giving-software-away-for-free" rel="alternate" type="text/html" title="Giving software away for free" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-01T00:00:00+00:00</updated><id>https://thechels.uk/giving-software-away-for-free</id><content type="html" xml:base="https://thechels.uk/giving-software-away-for-free"><![CDATA[<p>Almost everything I produce is HTML, CSS, JavaScript, and Python using GitHub Actions for the free compute.</p>
+
+<blockquote>
+  <p>If you want to create completely free software for other people to use, the absolute best delivery mechanism right now is static HTML and JavaScript served from a free web host with an established reputation.</p>
+</blockquote>
+
+<blockquote>
+  <p>Thanks to WebAssembly the set of potential software that can be served in this way is vast and, I think, under appreciated. Pyodide means we can ship client-side Python applications now!</p>
+</blockquote>
+
+<blockquote>
+  <p>This assumes that you would like your gift to the world to keep working for as long as possible, while granting you the freedom to lose interest and move onto other projects without needing to keep covering expenses far into the future.</p>
+</blockquote>
+
+<blockquote>
+  <p>Even the cheapest hosting plan requires you to monitor and update billing details every few years. Domains have to be renewed. Anything that runs server-side will inevitably need to be upgraded someday - and the longer you wait between upgrades the harder those become.</p>
+</blockquote>
+
+<blockquote>
+  <p>My top choice for this kind of thing in 2025 is GitHub, using GitHub Pages. It’s free for public repositories and I haven’t seen GitHub break a working URL that they have hosted in the 17+ years since they first launched.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Almost everything I produce is HTML, CSS, JavaScript, and Python using GitHub Actions for the free compute.]]></summary></entry><entry><title type="html">More people bad at math and money</title><link href="https://thechels.uk/more-people-bad-at-math-and-money" rel="alternate" type="text/html" title="More people bad at math and money" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-01T00:00:00+00:00</updated><id>https://thechels.uk/more-people-bad-at-math-and-money</id><content type="html" xml:base="https://thechels.uk/more-people-bad-at-math-and-money"><![CDATA[<blockquote>
+  <p>Almost 9 million people in the UK remain significantly underpensioned compared to the broader population. The latest data reveals that underpensioned groups have annual private pension incomes ranging from £3,650 to £6,750. This is 43% to 80% compared to the population average of £8,500, leaving many individuals vulnerable to financial insecurity in retirement.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Almost 9 million people in the UK remain significantly underpensioned compared to the broader population. The latest data reveals that underpensioned groups have annual private pension incomes ranging from £3,650 to £6,750. This is 43% to 80% compared to the population average of £8,500, leaving many individuals vulnerable to financial insecurity in retirement.]]></summary></entry><entry><title type="html">Not all people are bad at money</title><link href="https://thechels.uk/not-all-people-are-bad-at-money" rel="alternate" type="text/html" title="Not all people are bad at money" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-01T00:00:00+00:00</updated><id>https://thechels.uk/not-all-people-are-bad-at-money</id><content type="html" xml:base="https://thechels.uk/not-all-people-are-bad-at-money"><![CDATA[<blockquote>
+  <p>There are 400 Junior ISA (JISA) accounts held in the UK with a value of at least £100,000, according to a Freedom of Information (FOI) request submitted by Standard Life, part of Phoenix Group, as part of its analysis into the long-term impact of saving and investing for children.</p>
+
+  <p>Across the UK, many parents are setting their children up with savings to access when they reach adulthood, with the FOI request revealing there are 2,170,000 JISAs held, which will be passed onto the child recipient once they reach 16 years old. These contain an average value of £4,370, with the majority of accounts having up to £25,000 saved:</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>Market Value Range</th>
+      <th>Number of Junior ISA accounts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>£0 – £24,999</td>
+      <td>2,100,100</td>
+    </tr>
+    <tr>
+      <td>£25,000 – £49,999</td>
+      <td>55,400</td>
+    </tr>
+    <tr>
+      <td>£50,000 – £74,999</td>
+      <td>11,800</td>
+    </tr>
+    <tr>
+      <td>£75,000 – £99,999</td>
+      <td>2,400</td>
+    </tr>
+    <tr>
+      <td>£100,000+</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[There are 400 Junior ISA (JISA) accounts held in the UK with a value of at least £100,000, according to a Freedom of Information (FOI) request submitted by Standard Life, part of Phoenix Group, as part of its analysis into the long-term impact of saving and investing for children. Across the UK, many parents are setting their children up with savings to access when they reach adulthood, with the FOI request revealing there are 2,170,000 JISAs held, which will be passed onto the child recipient once they reach 16 years old. These contain an average value of £4,370, with the majority of accounts having up to £25,000 saved:]]></summary></entry><entry><title type="html">Redis is Open Source again</title><link href="https://thechels.uk/redis-is-open-source-again" rel="alternate" type="text/html" title="Redis is Open Source again" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-01T00:00:00+00:00</updated><id>https://thechels.uk/redis-is-open-source-again</id><content type="html" xml:base="https://thechels.uk/redis-is-open-source-again"><![CDATA[<p>Redis 8 is now GA, loaded with new features and more than 30 performance improvements</p>
+
+<p>This release adds 8 more data structures, including vector set (beta), JSON, time series, and five probabilistic structures, including Bloom filter, cuckoo filter, count-min sketch, top-k, and t-digest (some previously available as separate Redis modules). These new data structures help you solve your current use cases better and build for the next generation of fast and real-time apps. </p>
+
+<p>Additionally, we’ve changed the name of our free product from Redis Community Edition to Redis Open Source to reflect the addition of AGPLv3 as a licensing option.</p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Redis 8 is now GA, loaded with new features and more than 30 performance improvements]]></summary></entry><entry><title type="html">People are not good at maths</title><link href="https://thechels.uk/people-maths-bad" rel="alternate" type="text/html" title="People are not good at maths" /><published>2025-04-28T00:00:00+00:00</published><updated>2025-04-28T00:00:00+00:00</updated><id>https://thechels.uk/people-maths-bad</id><content type="html" xml:base="https://thechels.uk/people-maths-bad"><![CDATA[<blockquote>
   <p>HMRC’s newly published ‘Understanding the Use of the Lifetime ISA’ report lays bare the confusion at the heart of one of the government’s flagship savings products. Most striking is the revelation that even financially literate savers, including those actively contributing to their LISA, did not realise that the 25% penalty on non-qualifying withdrawals can leave them with less than they originally invested. People simply do not realise it’s not just a clawback of the government bonus – it’s a loss on their own money.</p>
 </blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[HMRC’s newly published ‘Understanding the Use of the Lifetime ISA’ report lays bare the confusion at the heart of one of the government’s flagship savings products. Most striking is the revelation that even financially literate savers, including those actively contributing to their LISA, did not realise that the 25% penalty on non-qualifying withdrawals can leave them with less than they originally invested. People simply do not realise it’s not just a clawback of the government bonus – it’s a loss on their own money.]]></summary></entry><entry><title type="html">RSS Feed Generation</title><link href="https://thechels.uk/rss-feed-generation" rel="alternate" type="text/html" title="RSS Feed Generation" /><published>2025-04-28T00:00:00+00:00</published><updated>2025-04-28T00:00:00+00:00</updated><id>https://thechels.uk/rss-feed-generation</id><content type="html" xml:base="https://thechels.uk/rss-feed-generation"><![CDATA[<p>I’ve been building out some RSS feeds recently as I really value the nature of RSS delivery in a reader of my choice, rather than being forced to go to websites full of adverts and cookie notices, or forced into apps that also are full of apps, despite being paid for - looking at you Apple News - So here is a code snippet that can take any markdown file, render the content into an item in an RSS feed. The front matter ensures Jekyll builds it and processes the variables.</p>
 
@@ -73,25 +134,4 @@ Till they’re knockin’ on the door of your homes, oh yeah</p>
 
 <ul>
   <li>Leaders of the free world, Elbow</li>
-</ul>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[A couple of songs came up sequentially today that seemed appropriate for the times.]]></summary></entry><entry><title type="html">Slopsquatting</title><link href="https://thechels.uk/slopsquatting" rel="alternate" type="text/html" title="Slopsquatting" /><published>2025-04-18T00:00:00+00:00</published><updated>2025-04-18T00:00:00+00:00</updated><id>https://thechels.uk/slopsquatting</id><content type="html" xml:base="https://thechels.uk/slopsquatting"><![CDATA[<blockquote>
-  <p><strong>Slopsquatting</strong> – when an LLM hallucinates a non-existent package name, and a bad actor registers it maliciously. The AI brother of typosquatting.</p>
-
-  <p>Credit to <a href="https://fosstodon.org/@sethmlarson">@sethmlarson</a> for the name</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Slopsquatting – when an LLM hallucinates a non-existent package name, and a bad actor registers it maliciously. The AI brother of typosquatting. Credit to @sethmlarson for the name]]></summary></entry><entry><title type="html">AI crawler wars threaten the web</title><link href="https://thechels.uk/ai-crawler-wars-threaten-the-web" rel="alternate" type="text/html" title="AI crawler wars threaten the web" /><published>2025-04-08T00:00:00+00:00</published><updated>2025-04-08T00:00:00+00:00</updated><id>https://thechels.uk/ai-crawler-wars-threaten-the-web</id><content type="html" xml:base="https://thechels.uk/ai-crawler-wars-threaten-the-web"><![CDATA[<p>AI crawler wars threaten to make the web more closed for everyone</p>
-
-<blockquote>
-  <p>AI crawler wars threaten to make the web more closed for everyone
-There’s an accelerating cat-and-mouse game between web publishers and AI crawlers, and we all stand to lose. </p>
-
-  <p>We often take the internet for granted. It’s an ocean of information at our fingertips—and it simply works. But this system relies on swarms of “crawlers”—bots that roam the web, visit millions of websites every day, and report what they see. This is how Google powers its search engines, how Amazon sets competitive prices, and how Kayak aggregates travel listings. Beyond the world of commerce, crawlers are essential for monitoring web security, enabling accessibility tools, and preserving historical archives. Academics, journalists, and civil societies also rely on them to conduct crucial investigative research.  </p>
-
-  <p>Crawlers are endemic. Now representing half of all internet traffic, they will soon outpace human traffic. This unseen subway of the web ferries information from site to site, day and night. And as of late, they serve one more purpose: Companies such as OpenAI use web-crawled data to train their artificial intelligence systems, like ChatGPT.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[AI crawler wars threaten to make the web more closed for everyone]]></summary></entry><entry><title type="html">And no, a robots txt file doesn’t help</title><link href="https://thechels.uk/and-no-a-robots-txt-file-doesn-t-help" rel="alternate" type="text/html" title="And no, a robots txt file doesn’t help" /><published>2025-04-08T00:00:00+00:00</published><updated>2025-04-08T00:00:00+00:00</updated><id>https://thechels.uk/and-no-a-robots-txt-file-doesn%E2%80%99t-help</id><content type="html" xml:base="https://thechels.uk/and-no-a-robots-txt-file-doesn-t-help"><![CDATA[<blockquote>
-  <p>If you think these crawlers respect robots.txt then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, robots.txt be damned.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[If you think these crawlers respect robots.txt then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, robots.txt be damned.]]></summary></entry><entry><title type="html">Micro-Scrum</title><link href="https://thechels.uk/micro-scrum" rel="alternate" type="text/html" title="Micro-Scrum" /><published>2025-04-08T00:00:00+00:00</published><updated>2025-04-08T00:00:00+00:00</updated><id>https://thechels.uk/micro-scrum</id><content type="html" xml:base="https://thechels.uk/micro-scrum"><![CDATA[<blockquote>
-  <p>Imagine you worked like this:</p>
-
-  <p>At the start of the week: Get together with the team to decide what to ship—bring live—at the end of the week. Ideally, everyone contributes, but this is intentionally not a requirement.</p>
-
-  <p>At the end of the week: Get together and look at what was shipped. Everyone high-fives or, together, lands on one lesson to learn.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Imagine you worked like this: At the start of the week: Get together with the team to decide what to ship—bring live—at the end of the week. Ideally, everyone contributes, but this is intentionally not a requirement. At the end of the week: Get together and look at what was shipped. Everyone high-fives or, together, lands on one lesson to learn.]]></summary></entry></feed>
+</ul>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[A couple of songs came up sequentially today that seemed appropriate for the times.]]></summary></entry></feed>
