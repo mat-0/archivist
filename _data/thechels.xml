@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-04T06:04:18+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Giving software away for free</title><link href="https://thechels.uk/giving-software-away-for-free" rel="alternate" type="text/html" title="Giving software away for free" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-01T00:00:00+00:00</updated><id>https://thechels.uk/giving-software-away-for-free</id><content type="html" xml:base="https://thechels.uk/giving-software-away-for-free"><![CDATA[<p>Almost everything I produce is HTML, CSS, JavaScript, and Python using GitHub Actions for the free compute.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-04T19:53:00+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Attitude is a choice</title><link href="https://thechels.uk/attitude-is-a-choice" rel="alternate" type="text/html" title="Attitude is a choice" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/attitude-is-a-choice</id><content type="html" xml:base="https://thechels.uk/attitude-is-a-choice"><![CDATA[<blockquote>
+  <p>One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.”</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.”]]></summary></entry><entry><title type="html">Change is a constant</title><link href="https://thechels.uk/change-is-a-constant" rel="alternate" type="text/html" title="Change is a constant" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/change-is-a-constant</id><content type="html" xml:base="https://thechels.uk/change-is-a-constant"><![CDATA[<blockquote>
+  <p>Change is a constant in all of our lives, and if you don’t evolve, you’re dead. To stay at the top, you cannot wait for the crisis. You must take steps to deal with it before it arises.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Change is a constant in all of our lives, and if you don’t evolve, you’re dead. To stay at the top, you cannot wait for the crisis. You must take steps to deal with it before it arises.]]></summary></entry><entry><title type="html">Firestarter</title><link href="https://thechels.uk/firestarter" rel="alternate" type="text/html" title="Firestarter" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/firestarter</id><content type="html" xml:base="https://thechels.uk/firestarter"><![CDATA[<blockquote>
+  <p>If your job is constantly putting out fires, it helps not to walk around with a flamethrower.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[If your job is constantly putting out fires, it helps not to walk around with a flamethrower.]]></summary></entry><entry><title type="html">Next game</title><link href="https://thechels.uk/next-game" rel="alternate" type="text/html" title="Next game" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/next-game</id><content type="html" xml:base="https://thechels.uk/next-game"><![CDATA[<blockquote>
+  <p>I can’t be doing with this nonsense about you being only as good as your last game. No, you’re not. You are only as good as your next one.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[I can’t be doing with this nonsense about you being only as good as your last game. No, you’re not. You are only as good as your next one.]]></summary></entry><entry><title type="html">Giving software away for free</title><link href="https://thechels.uk/giving-software-away-for-free" rel="alternate" type="text/html" title="Giving software away for free" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-01T00:00:00+00:00</updated><id>https://thechels.uk/giving-software-away-for-free</id><content type="html" xml:base="https://thechels.uk/giving-software-away-for-free"><![CDATA[<p>Almost everything I produce is HTML, CSS, JavaScript, and Python using GitHub Actions for the free compute.</p>
 
 <blockquote>
   <p>If you want to create completely free software for other people to use, the absolute best delivery mechanism right now is static HTML and JavaScript served from a free web host with an established reputation.</p>
@@ -88,50 +96,4 @@
 <span class="nt">&lt;/item&gt;</span>
 <span class="nt">&lt;/channel&gt;</span>
 <span class="nt">&lt;/rss&gt;</span>
-</code></pre></div></div>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[I’ve been building out some RSS feeds recently as I really value the nature of RSS delivery in a reader of my choice, rather than being forced to go to websites full of adverts and cookie notices, or forced into apps that also are full of apps, despite being paid for - looking at you Apple News - So here is a code snippet that can take any markdown file, render the content into an item in an RSS feed. The front matter ensures Jekyll builds it and processes the variables.]]></summary></entry><entry><title type="html">Default styles for h1 elements are changing</title><link href="https://thechels.uk/default-styles-for-h1-elements-are-changing" rel="alternate" type="text/html" title="Default styles for h1 elements are changing" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://thechels.uk/default-styles-for-h1-elements-are-changing</id><content type="html" xml:base="https://thechels.uk/default-styles-for-h1-elements-are-changing"><![CDATA[<blockquote>
-  <p>Browsers are starting to roll out changes in default UA styles for nested section headings. Developers should check that their sites don’t rely on UA styles for certain cases to avoid unexpected results and failing Lighthouse checks. In this post, we’ll have a look at what the incoming changes are, how to identify if it’s an issue on your pages, and some hints for conformant and better-structured websites.</p>
-</blockquote>
-
-<blockquote>
-  <p>What’s changing
-The HTML spec used to define an outline algorithm that gave &lt;h1&gt; elements an implicit semantic heading level based on how many sectioning elements (&lt;section&gt;, &lt;aside&gt;, &lt;nav&gt;, and &lt;article&gt;) it was nested inside.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Browsers are starting to roll out changes in default UA styles for nested section headings. Developers should check that their sites don’t rely on UA styles for certain cases to avoid unexpected results and failing Lighthouse checks. In this post, we’ll have a look at what the incoming changes are, how to identify if it’s an issue on your pages, and some hints for conformant and better-structured websites.]]></summary></entry><entry><title type="html">How to Win an Argument With a Toddler</title><link href="https://thechels.uk/how-to-win-an-argument-with-a-toddler" rel="alternate" type="text/html" title="How to Win an Argument With a Toddler" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://thechels.uk/how-to-win-an-argument-with-a-toddler</id><content type="html" xml:base="https://thechels.uk/how-to-win-an-argument-with-a-toddler"><![CDATA[<blockquote>
-  <p>You can’t.</p>
-
-  <p>That’s because toddlers don’t understand what an argument is and aren’t interesting in having one.</p>
-
-  <p>Toddlers (which includes defensive bureaucrats, bullies, flat earthers, folks committed to a specific agenda and radio talk show hosts) may indicate that they’d like to have an argument, but they’re actually engaging in connection, noise, play acting or a chance to earn status. It can be fun to be in opposition, to harangue or even to use power to change someone’s position.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[You can’t. That’s because toddlers don’t understand what an argument is and aren’t interesting in having one. Toddlers (which includes defensive bureaucrats, bullies, flat earthers, folks committed to a specific agenda and radio talk show hosts) may indicate that they’d like to have an argument, but they’re actually engaging in connection, noise, play acting or a chance to earn status. It can be fun to be in opposition, to harangue or even to use power to change someone’s position.]]></summary></entry><entry><title type="html">Seven phrases when sharing feedback that makes it easier</title><link href="https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier" rel="alternate" type="text/html" title="Seven phrases when sharing feedback that makes it easier" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier</id><content type="html" xml:base="https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier"><![CDATA[<blockquote>
-  <p>With that, here are 7 phrases I often use when sharing feedback that makes it easier for me to speak openly and quickly, and encourages my recipient to take action.</p>
-
-  <ol>
-    <li>“This is a great start”</li>
-    <li>“I noticed”</li>
-    <li>“At the same time”</li>
-    <li>“Even more”</li>
-    <li>“I believe you were trying to do x, but it doesn’t quite work because y. I recommend trying z.”</li>
-    <li>“Already”</li>
-    <li>“Based on the data points I have around x…”</li>
-  </ol>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[With that, here are 7 phrases I often use when sharing feedback that makes it easier for me to speak openly and quickly, and encourages my recipient to take action. “This is a great start” “I noticed” “At the same time” “Even more” “I believe you were trying to do x, but it doesn’t quite work because y. I recommend trying z.” “Already” “Based on the data points I have around x…”]]></summary></entry><entry><title type="html">Lyrical juxtaposition</title><link href="https://thechels.uk/lyrical-juxtaposition" rel="alternate" type="text/html" title="Lyrical juxtaposition" /><published>2025-04-18T00:00:00+00:00</published><updated>2025-04-18T00:00:00+00:00</updated><id>https://thechels.uk/lyrical-juxtaposition</id><content type="html" xml:base="https://thechels.uk/lyrical-juxtaposition"><![CDATA[<p>A couple of songs came up sequentially today that seemed appropriate for the times.</p>
-
-<blockquote>
-  <p>There are some bad people on the rise
-They’re saving their own skins by
-Ruining people’s lives</p>
-</blockquote>
-
-<ul>
-  <li>Interesting Drug, Morrissey</li>
-</ul>
-
-<blockquote>
-  <p>But the leaders of the free world
-Are just little boys throwin’ stones 
-And it’s easy to ignore
-Till they’re knockin’ on the door of your homes, oh yeah</p>
-</blockquote>
-
-<ul>
-  <li>Leaders of the free world, Elbow</li>
-</ul>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[A couple of songs came up sequentially today that seemed appropriate for the times.]]></summary></entry></feed>
+</code></pre></div></div>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[I’ve been building out some RSS feeds recently as I really value the nature of RSS delivery in a reader of my choice, rather than being forced to go to websites full of adverts and cookie notices, or forced into apps that also are full of apps, despite being paid for - looking at you Apple News - So here is a code snippet that can take any markdown file, render the content into an item in an RSS feed. The front matter ensures Jekyll builds it and processes the variables.]]></summary></entry></feed>
