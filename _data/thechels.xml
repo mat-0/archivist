@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-07T06:04:37+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Attitude is a choice</title><link href="https://thechels.uk/attitude-is-a-choice" rel="alternate" type="text/html" title="Attitude is a choice" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/attitude-is-a-choice</id><content type="html" xml:base="https://thechels.uk/attitude-is-a-choice"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-07T18:36:00+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Monthly Mixtape - May 2025</title><link href="https://thechels.uk/mixtape-music-05-2025" rel="alternate" type="text/html" title="Monthly Mixtape - May 2025" /><published>2025-05-07T00:00:00+00:00</published><updated>2025-05-07T00:00:00+00:00</updated><id>https://thechels.uk/mixtape-music-05-2025</id><content type="html" xml:base="https://thechels.uk/mixtape-music-05-2025"><![CDATA[<p>What I’ve been listening to this month.</p>
+
+<p><img src="/images/mixtapes/2025-05.png" alt="Monthly Mixtape 2025-05" /></p>
+
+<ol>
+  <li>Sweetness - Jimmy Eat World</li>
+  <li>A Design for Life (Remastered Version) - Manic Street Preachers</li>
+  <li>Movin’ On Up - Primal Scream</li>
+  <li>Intergalactic - Beastie Boys</li>
+  <li>Time for Peace - The Little Shadows</li>
+  <li>Planet of the Apes - Pinehurst Kids</li>
+  <li>Street Spirit (Fade Out) - Radiohead</li>
+  <li>Slide Away - The Vines</li>
+  <li>You Held the World In Your Arms - Idlewild</li>
+  <li>Silent to the Dark - The Electric Soft Parade</li>
+  <li>The Black Amnesias - Hope of the States</li>
+  <li>Transmitter - Sea Power</li>
+  <li>Landslide - Allie Sandt</li>
+  <li>Almost, So Close, Maybe - Mercer Henderson</li>
+  <li>Strive - Yaron Herman</li>
+  <li>Bigmouth Strikes Again - The Smiths</li>
+  <li>Keep Watching the Sky - Skywatchers</li>
+  <li>Nancy Boy - Placebo</li>
+  <li>Shut up and Kiss Me - Pony Up!</li>
+  <li>Whippin’ Piccadilly - Gomez</li>
+  <li>Strict Machine - Goldfrapp</li>
+</ol>
+
+<p>You can listen along on <a href="https://music.apple.com/profile/thechelsuk">Apple Music here</a></p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[What I’ve been listening to this month.]]></summary></entry><entry><title type="html">Attitude is a choice</title><link href="https://thechels.uk/attitude-is-a-choice" rel="alternate" type="text/html" title="Attitude is a choice" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/attitude-is-a-choice</id><content type="html" xml:base="https://thechels.uk/attitude-is-a-choice"><![CDATA[<blockquote>
   <p>One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.</p>
 </blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.]]></summary></entry><entry><title type="html">Change is a constant</title><link href="https://thechels.uk/change-is-a-constant" rel="alternate" type="text/html" title="Change is a constant" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/change-is-a-constant</id><content type="html" xml:base="https://thechels.uk/change-is-a-constant"><![CDATA[<blockquote>
   <p>Change is a constant in all of our lives, and if you don’t evolve, you’re dead. To stay at the top, you cannot wait for the crisis. You must take steps to deal with it before it arises.</p>
@@ -158,6 +186,4 @@
 
 <p>This release adds 8 more data structures, including vector set (beta), JSON, time series, and five probabilistic structures, including Bloom filter, cuckoo filter, count-min sketch, top-k, and t-digest (some previously available as separate Redis modules). These new data structures help you solve your current use cases better and build for the next generation of fast and real-time apps. </p>
 
-<p>Additionally, we’ve changed the name of our free product from Redis Community Edition to Redis Open Source to reflect the addition of AGPLv3 as a licensing option.</p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Redis 8 is now GA, loaded with new features and more than 30 performance improvements]]></summary></entry><entry><title type="html">People are not good at maths</title><link href="https://thechels.uk/people-maths-bad" rel="alternate" type="text/html" title="People are not good at maths" /><published>2025-04-28T00:00:00+00:00</published><updated>2025-04-28T00:00:00+00:00</updated><id>https://thechels.uk/people-maths-bad</id><content type="html" xml:base="https://thechels.uk/people-maths-bad"><![CDATA[<blockquote>
-  <p>HMRC’s newly published ‘Understanding the Use of the Lifetime ISA’ report lays bare the confusion at the heart of one of the government’s flagship savings products. Most striking is the revelation that even financially literate savers, including those actively contributing to their LISA, did not realise that the 25% penalty on non-qualifying withdrawals can leave them with less than they originally invested. People simply do not realise it’s not just a clawback of the government bonus – it’s a loss on their own money.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[HMRC’s newly published ‘Understanding the Use of the Lifetime ISA’ report lays bare the confusion at the heart of one of the government’s flagship savings products. Most striking is the revelation that even financially literate savers, including those actively contributing to their LISA, did not realise that the 25% penalty on non-qualifying withdrawals can leave them with less than they originally invested. People simply do not realise it’s not just a clawback of the government bonus – it’s a loss on their own money.]]></summary></entry></feed>
+<p>Additionally, we’ve changed the name of our free product from Redis Community Edition to Redis Open Source to reflect the addition of AGPLv3 as a licensing option.</p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Redis 8 is now GA, loaded with new features and more than 30 performance improvements]]></summary></entry></feed>
