@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-21T06:04:51+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Developers as Suppliers</title><link href="https://thechels.uk/developers-as-suppliers" rel="alternate" type="text/html" title="Developers as Suppliers" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://thechels.uk/developers-as-suppliers</id><content type="html" xml:base="https://thechels.uk/developers-as-suppliers"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-21T12:34:55+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Is GitHub Ready For Enterprise-Grade SDL</title><link href="https://thechels.uk/is-github-ready-for-enterprise-grade-sdl" rel="alternate" type="text/html" title="Is GitHub Ready For Enterprise-Grade SDL" /><published>2025-05-21T00:00:00+00:00</published><updated>2025-05-21T00:00:00+00:00</updated><id>https://thechels.uk/is-github-ready-for-enterprise-grade-sdl</id><content type="html" xml:base="https://thechels.uk/is-github-ready-for-enterprise-grade-sdl"><![CDATA[<blockquote>
+  <p>GitHub is rapidly evolving into a platform that can support end-to-end enterprise software development, especially for teams prioritizing developer experience and automation. However, it is not yet a full replacement for Azure DevOps in environments that require structured project management, formal QA processes, and deep compliance capabilities.</p>
+
+  <p>For most modern enterprises, a hybrid approach may offer the best of both worlds. GitHub can serve as the primary development and CI/CD platform, while Azure DevOps complements it with Boards and Test Plans for planning and quality assurance.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[GitHub is rapidly evolving into a platform that can support end-to-end enterprise software development, especially for teams prioritizing developer experience and automation. However, it is not yet a full replacement for Azure DevOps in environments that require structured project management, formal QA processes, and deep compliance capabilities. For most modern enterprises, a hybrid approach may offer the best of both worlds. GitHub can serve as the primary development and CI/CD platform, while Azure DevOps complements it with Boards and Test Plans for planning and quality assurance.]]></summary></entry><entry><title type="html">Octopus doubles down on Seccl</title><link href="https://thechels.uk/octopus-doubles-down-on-seccl" rel="alternate" type="text/html" title="Octopus doubles down on Seccl" /><published>2025-05-21T00:00:00+00:00</published><updated>2025-05-21T00:00:00+00:00</updated><id>https://thechels.uk/octopus-doubles-down-on-seccl</id><content type="html" xml:base="https://thechels.uk/octopus-doubles-down-on-seccl"><![CDATA[<blockquote>
+  <p>Seccl now looks after more than £3 billion on behalf of more than a quarter of a million customers and expects to triple assets under administration over the coming year.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Seccl now looks after more than £3 billion on behalf of more than a quarter of a million customers and expects to triple assets under administration over the coming year.]]></summary></entry><entry><title type="html">Remarks on AI Neal Stephenson</title><link href="https://thechels.uk/remarks-on-ai-neal-stephenson" rel="alternate" type="text/html" title="Remarks on AI Neal Stephenson" /><published>2025-05-21T00:00:00+00:00</published><updated>2025-05-21T00:00:00+00:00</updated><id>https://thechels.uk/remarks-on-ai-neal-stephenson</id><content type="html" xml:base="https://thechels.uk/remarks-on-ai-neal-stephenson"><![CDATA[<blockquote>
+  <p>This is the main thing I worry about currently as far as AI is concerned. I follow conversations among professional educators who all report the same phenomenon, which is that their students use ChatGPT for everything, and in consequence learn nothing. We may end up with at least one generation of people who are like the Eloi in H.G. Wells’s The Time Machine, in that they are mental weaklings utterly dependent on technologies that they don’t understand and that they could never rebuild from scratch were they to break down.</p>
+
+  <p>To me this seems like a downside of AI that is easy to understand, easy to measure, with immediate effects, that could be counteracted tomorrow through simple interventions such as requiring students to take examinations in supervised classrooms, writing answers out by hand on blank paper.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[This is the main thing I worry about currently as far as AI is concerned. I follow conversations among professional educators who all report the same phenomenon, which is that their students use ChatGPT for everything, and in consequence learn nothing. We may end up with at least one generation of people who are like the Eloi in H.G. Wells’s The Time Machine, in that they are mental weaklings utterly dependent on technologies that they don’t understand and that they could never rebuild from scratch were they to break down. To me this seems like a downside of AI that is easy to understand, easy to measure, with immediate effects, that could be counteracted tomorrow through simple interventions such as requiring students to take examinations in supervised classrooms, writing answers out by hand on blank paper.]]></summary></entry><entry><title type="html">Developers as Suppliers</title><link href="https://thechels.uk/developers-as-suppliers" rel="alternate" type="text/html" title="Developers as Suppliers" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://thechels.uk/developers-as-suppliers</id><content type="html" xml:base="https://thechels.uk/developers-as-suppliers"><![CDATA[<blockquote>
   <p>I’m quite certain that everyone at Apple, right up to Tim Cook, would swear up and down that Apple <em>does</em> value third-party developers and does <em>not</em> treat them like they do suppliers.</p>
 
   <p>But ask iOS and Mac developers, small or large, whether they agree with Evans’s succinct summary above. I don’t know any who wouldn’t agree that Evans’s pithy take is largely, if not entirely, true. You’ll have to ask them in private, though, because, like Apple’s suppliers, they’re afraid to speak in public about the App Store.</p>
@@ -59,107 +69,4 @@
 
 <p>You can listen along on <a href="https://music.apple.com/profile/thechelsuk">Apple Music here</a></p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[What I’ve been listening to this month.]]></summary></entry><entry><title type="html">Attitude is a choice</title><link href="https://thechels.uk/attitude-is-a-choice" rel="alternate" type="text/html" title="Attitude is a choice" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/attitude-is-a-choice</id><content type="html" xml:base="https://thechels.uk/attitude-is-a-choice"><![CDATA[<blockquote>
   <p>One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.]]></summary></entry><entry><title type="html">Change is a constant</title><link href="https://thechels.uk/change-is-a-constant" rel="alternate" type="text/html" title="Change is a constant" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/change-is-a-constant</id><content type="html" xml:base="https://thechels.uk/change-is-a-constant"><![CDATA[<blockquote>
-  <p>Change is a constant in all of our lives, and if you don’t evolve, you’re dead. To stay at the top, you cannot wait for the crisis. You must take steps to deal with it before it arises.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Change is a constant in all of our lives, and if you don’t evolve, you’re dead. To stay at the top, you cannot wait for the crisis. You must take steps to deal with it before it arises.]]></summary></entry><entry><title type="html">Firestarter</title><link href="https://thechels.uk/firestarter" rel="alternate" type="text/html" title="Firestarter" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/firestarter</id><content type="html" xml:base="https://thechels.uk/firestarter"><![CDATA[<blockquote>
-  <p>If your job is constantly putting out fires, it helps not to walk around with a flamethrower.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[If your job is constantly putting out fires, it helps not to walk around with a flamethrower.]]></summary></entry><entry><title type="html">5-Day Low Histamine Vegan Meal Plan</title><link href="https://thechels.uk/low-histamine" rel="alternate" type="text/html" title="5-Day Low Histamine Vegan Meal Plan" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/low-histamine</id><content type="html" xml:base="https://thechels.uk/low-histamine"><![CDATA[<p>Managing histamine intolerance on a vegan diet requires careful planning. This 5-day meal plan avoids high-histamine plant foods while ensuring nutritional adequacy through fresh, minimally processed ingredients.</p>
-
-<h2 id="daily-meal-plan">Daily Meal Plan</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Day</th>
-      <th>Meal</th>
-      <th>Menu</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Day 1</strong></td>
-      <td>Lunch</td>
-      <td>Fresh zucchini noodles with olive oil, garlic, and fresh herbs (basil, parsley)<br />Side of steamed sweet potato chunks</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Snack</td>
-      <td>Fresh cucumber slices with homemade mung bean hummus</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Dinner</td>
-      <td>Millet pilaf with freshly cooked vegetables (carrots, broccoli, leeks)<br />Simple green salad with extra virgin olive oil and fresh lemon juice</td>
-    </tr>
-    <tr>
-      <td><strong>Day 2</strong></td>
-      <td>Lunch</td>
-      <td>Freshly made lentil soup with carrots, celery, and herbs<br />Freshly baked sweet potato</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Snack</td>
-      <td>Rice cakes with fresh avocado (eat immediately after cutting)</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Dinner</td>
-      <td>Stir-fried brown rice with freshly cooked vegetables (bok choy, carrots, snap peas)<br />Simple cucumber and radish salad</td>
-    </tr>
-    <tr>
-      <td><strong>Day 3</strong></td>
-      <td>Lunch</td>
-      <td>Buddha bowl with quinoa, fresh leafy greens, steamed broccoli, and fresh herbs<br />Drizzle of olive oil and lemon dressing (prepared fresh)</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Snack</td>
-      <td>Fresh melon pieces</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Dinner</td>
-      <td>Roasted root vegetables (sweet potatoes, parsnips, turnips)<br />Freshly made millet tabbouleh with parsley, mint, and cucumber</td>
-    </tr>
-    <tr>
-      <td><strong>Day 4</strong></td>
-      <td>Lunch</td>
-      <td>Baked sweet potato stuffed with freshly made black bean mixture (cook beans from dried)<br />Side of steamed kale with lemon and olive oil</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Snack</td>
-      <td>Fresh celery sticks with homemade fresh pumpkin seed butter</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Dinner</td>
-      <td>Cauliflower rice bowl with steamed vegetables and herbs<br />Simple salad with fresh lettuces and grated carrots</td>
-    </tr>
-    <tr>
-      <td><strong>Day 5</strong></td>
-      <td>Lunch</td>
-      <td>Fresh vegetable soup with zucchini, carrots, and fresh herbs<br />Side of freshly cooked millet</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Snack</td>
-      <td>Green apple slices with a few macadamia nuts</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Dinner</td>
-      <td>Baked spaghetti squash with fresh herb sauce (basil, parsley, olive oil)<br />Steamed asparagus with lemon</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="important-guidelines-for-low-histamine-vegan-eating">Important Guidelines for Low Histamine Vegan Eating</h2>
-
-<h3 id="fresh-is-best">Fresh is Best</h3>
-
-<p>Prepare meals fresh and avoid leftovers whenever possible. Histamine levels increase as food ages, even in the refrigerator. Try to cook just enough for one meal at a time.</p>
-
-<h3 id="cooking-methods-matter">Cooking Methods Matter</h3>
-
-<p>Steam, boil, or bake foods rather than frying or grilling to minimize histamine formation during the cooking process.</p>]]></content><author><name>Mat</name></author><category term="low histamine" /><category term="vegan" /><category term="meal plan" /><category term="anti-inflammatory" /><category term="food sensitivity" /><summary type="html"><![CDATA[Managing histamine intolerance on a vegan diet requires careful planning. This 5-day meal plan avoids high-histamine plant foods while ensuring nutritional adequacy through fresh, minimally processed ingredients.]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.]]></summary></entry></feed>
