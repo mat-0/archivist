@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-25T18:37:35+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Is GitHub Ready For Enterprise-Grade SDL</title><link href="https://thechels.uk/is-github-ready-for-enterprise-grade-sdl" rel="alternate" type="text/html" title="Is GitHub Ready For Enterprise-Grade SDL" /><published>2025-05-21T00:00:00+00:00</published><updated>2025-05-21T00:00:00+00:00</updated><id>https://thechels.uk/is-github-ready-for-enterprise-grade-sdl</id><content type="html" xml:base="https://thechels.uk/is-github-ready-for-enterprise-grade-sdl"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-05-25T19:49:24+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">7 Frameworks To Master Decision Making</title><link href="https://thechels.uk/decision-making-framework" rel="alternate" type="text/html" title="7 Frameworks To Master Decision Making" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://thechels.uk/decision-making-framework</id><content type="html" xml:base="https://thechels.uk/decision-making-framework"><![CDATA[<ol>
+  <li>
+    <p>The OODA Loop</p>
+
+    <ul>
+      <li>Observe → Orient → Decide → Act</li>
+      <li>A powerful cycle for rapid, adaptive decisions in changing landscapes.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Pareto Principle (80/20 Rule)</p>
+
+    <ul>
+      <li>Focus on the 20% of actions yielding 80% of your results.</li>
+      <li>Success isn’t about more activity; it’s about the right activity.</li>
+      <li>Regularly reassess to ensure you’re focusing on the right 20%.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Amazon Door Framework</p>
+
+    <p>Classify decisions:</p>
+    <ul>
+      <li>One-way doors: Irreversible. Go slow, be thorough.</li>
+      <li>Two-way doors: Reversible. Decide quickly, iterate.</li>
+      <li>Most are two-way. Don’t treat them like they’re set in stone.</li>
+    </ul>
+  </li>
+  <li>
+    <p>First Principles Thinking</p>
+
+    <ul>
+      <li>Break problems down to their absolute basic truths. Then rebuild your solution from that solid ground.</li>
+      <li>Magic comes from questioning every assumption.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Eisenhower Matrix</p>
+
+    <ul>
+      <li>Urgent + Important: Do now</li>
+      <li>nImportant, not urgent: Schedule</li>
+      <li>Urgent, not important: Delegate</li>
+      <li>Neither: Eliminate</li>
+    </ul>
+  </li>
+  <li>
+    <p>Inversion Thinking</p>
+
+    <ul>
+      <li>Instead of “How do I succeed?” ask: “How could this fail?” Then avoid those pitfalls.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Regret Minimization</p>
+
+    <ul>
+      <li>Show applied learning, like “Mastered AI and used it to boost user satisfaction 28%,” not just “Learned AI.”</li>
+    </ul>
+  </li>
+</ol>]]></content><author><name>Mat</name></author><category term="productivity" /><category term="decision-making" /><category term="frameworks" /><category term="OODA" /><category term="pareto-principle" /><category term="eisenhower-matrix" /><category term="first-principles" /><category term="inversion-thinking" /><category term="regret-minimization" /><category term="amazon" /><summary type="html"><![CDATA[The OODA Loop]]></summary></entry><entry><title type="html">Is GitHub Ready For Enterprise-Grade SDL</title><link href="https://thechels.uk/is-github-ready-for-enterprise-grade-sdl" rel="alternate" type="text/html" title="Is GitHub Ready For Enterprise-Grade SDL" /><published>2025-05-21T00:00:00+00:00</published><updated>2025-05-21T00:00:00+00:00</updated><id>https://thechels.uk/is-github-ready-for-enterprise-grade-sdl</id><content type="html" xml:base="https://thechels.uk/is-github-ready-for-enterprise-grade-sdl"><![CDATA[<blockquote>
   <p>GitHub is rapidly evolving into a platform that can support end-to-end enterprise software development, especially for teams prioritizing developer experience and automation. However, it is not yet a full replacement for Azure DevOps in environments that require structured project management, formal QA processes, and deep compliance capabilities.</p>
 
   <p>For most modern enterprises, a hybrid approach may offer the best of both worlds. GitHub can serve as the primary development and CI/CD platform, while Azure DevOps complements it with Boards and Test Plans for planning and quality assurance.</p>
@@ -68,6 +128,4 @@
   <li>Strict Machine - Goldfrapp</li>
 </ol>
 
-<p>You can listen along on <a href="https://music.apple.com/profile/thechelsuk">Apple Music here</a></p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[What I’ve been listening to this month.]]></summary></entry><entry><title type="html">Attitude is a choice</title><link href="https://thechels.uk/attitude-is-a-choice" rel="alternate" type="text/html" title="Attitude is a choice" /><published>2025-05-04T00:00:00+00:00</published><updated>2025-05-04T00:00:00+00:00</updated><id>https://thechels.uk/attitude-is-a-choice</id><content type="html" xml:base="https://thechels.uk/attitude-is-a-choice"><![CDATA[<blockquote>
-  <p>One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[One thing you can’t take away from me is how I choose to respond to what you do to me. The last of one’s freedoms is to choose one’s attitudes in any circumstances.]]></summary></entry></feed>
+<p>You can listen along on <a href="https://music.apple.com/profile/thechelsuk">Apple Music here</a></p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[What I’ve been listening to this month.]]></summary></entry></feed>
