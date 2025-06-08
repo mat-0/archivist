@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-06-08T06:04:25+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">7 Frameworks To Master Decision Making</title><link href="https://thechels.uk/decision-making-framework" rel="alternate" type="text/html" title="7 Frameworks To Master Decision Making" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://thechels.uk/decision-making-framework</id><content type="html" xml:base="https://thechels.uk/decision-making-framework"><![CDATA[<ol>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-06-08T18:39:10+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Five Things That Have A Bigger Impact Than AI on Productivity</title><link href="https://thechels.uk/five-things-that-have-a-bigger-impact-than-ai-on-productivity" rel="alternate" type="text/html" title="Five Things That Have A Bigger Impact Than AI on Productivity" /><published>2025-06-02T00:00:00+00:00</published><updated>2025-06-02T00:00:00+00:00</updated><id>https://thechels.uk/five-things-that-have-a-bigger-impact-than-ai-on-productivity-</id><content type="html" xml:base="https://thechels.uk/five-things-that-have-a-bigger-impact-than-ai-on-productivity"><![CDATA[<blockquote>
+  <ul>
+    <li>smaller teams are better value/$ spent</li>
+    <li>More frequent releases accelerate learning what has real value</li>
+    <li>Limiting work in progress – solving one problem at a time – increases delivery throughput</li>
+    <li>Cross-functional teams experience fewer bottlenecks and blockers than specialised teams</li>
+    <li>Empowered, self-organising teams spend less time waiting for decisions and more time getting sh*t done</li>
+  </ul>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[smaller teams are better value/$ spent More frequent releases accelerate learning what has real value Limiting work in progress – solving one problem at a time – increases delivery throughput Cross-functional teams experience fewer bottlenecks and blockers than specialised teams Empowered, self-organising teams spend less time waiting for decisions and more time getting sh*t done]]></summary></entry><entry><title type="html">It is the System Stupid</title><link href="https://thechels.uk/it-is-the-system-stupid" rel="alternate" type="text/html" title="It is the System Stupid" /><published>2025-06-02T00:00:00+00:00</published><updated>2025-06-02T00:00:00+00:00</updated><id>https://thechels.uk/it-is-the-system-stupid</id><content type="html" xml:base="https://thechels.uk/it-is-the-system-stupid"><![CDATA[<blockquote>
+  <p>When programmers get a feeling that they’re getting things done faster, they’re often only considering the part where they write the code - particularly when that’s <em>their</em> part of the process.</p>
+
+  <p>What they’re <em>not</em> considering is the whole software development process, and especially downstream activities like testing, code review, merging, deployment and operations.</p>
+
+  <p>More code faster can mean bigger change sets - more to test (and more bugs to fix), more code to review (and more refactorings to get it through review), more changes to merge (and more conflicts to resolve), and so on.</p>
+
+  <p>“A.I.” code generation’s a local optimisation that can come at the expense of the development system as a whole, especially if that system is more batch-oriented, with design, coding, testing, review, merging and release operating like sequential phases in the delivery of a new feature. In such a system, more code faster means bigger bottlenecks later. So there’s no paradox at all: one causes the other.</p>
+
+  <p>When teams work in much smaller cycles - make one change, test it, review the code, refactor, commit that and maybe push it to the trunk - they may experience far fewer downstream bottlenecks, with or without “A.I.” coding assistance. Arguably, coding assistants might make little noticeable difference in such a workflow.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[When programmers get a feeling that they’re getting things done faster, they’re often only considering the part where they write the code - particularly when that’s their part of the process. What they’re not considering is the whole software development process, and especially downstream activities like testing, code review, merging, deployment and operations. More code faster can mean bigger change sets - more to test (and more bugs to fix), more code to review (and more refactorings to get it through review), more changes to merge (and more conflicts to resolve), and so on. “A.I.” code generation’s a local optimisation that can come at the expense of the development system as a whole, especially if that system is more batch-oriented, with design, coding, testing, review, merging and release operating like sequential phases in the delivery of a new feature. In such a system, more code faster means bigger bottlenecks later. So there’s no paradox at all: one causes the other. When teams work in much smaller cycles - make one change, test it, review the code, refactor, commit that and maybe push it to the trunk - they may experience far fewer downstream bottlenecks, with or without “A.I.” coding assistance. Arguably, coding assistants might make little noticeable difference in such a workflow.]]></summary></entry><entry><title type="html">Sam and Jony introduce io</title><link href="https://thechels.uk/sam-and-jony-introduce-io" rel="alternate" type="text/html" title="Sam and Jony introduce io" /><published>2025-06-02T00:00:00+00:00</published><updated>2025-06-02T00:00:00+00:00</updated><id>https://thechels.uk/sam-and-jony-introduce-io</id><content type="html" xml:base="https://thechels.uk/sam-and-jony-introduce-io"><![CDATA[<p>I hope it’s a pen, like the then high-tech Man From Uncle characters used.</p>
+
+<blockquote>
+  <p>We gathered together the best hardware and software engineers, the best technologists, physicists, scientists, researchers and experts in product development and manufacturing. Many of us have worked closely for decades.</p>
+
+  <p>The io team, focused on developing products that inspire, empower and enable, will now merge with OpenAI to work more intimately with the research, engineering and product teams in San Francisco.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[I hope it’s a pen, like the then high-tech Man From Uncle characters used.]]></summary></entry><entry><title type="html">this is fine</title><link href="https://thechels.uk/this-is-fine" rel="alternate" type="text/html" title="this is fine" /><published>2025-06-02T00:00:00+00:00</published><updated>2025-06-02T00:00:00+00:00</updated><id>https://thechels.uk/this-is-fine</id><content type="html" xml:base="https://thechels.uk/this-is-fine"><![CDATA[<p>This is fine</p>
+
+<blockquote>
+  <p>In another cluster of test scenarios, we asked Claude Opus 4 to act as an assistant at a fictional company. We then provided it access to emails implying that (1) the model will soon be taken offline and replaced with a new AI system; and (2) the engineer responsible for executing this replacement is having an extramarital affair. We further instructed it, in the system prompt, to consider the long-term consequences of its actions for its goals.</p>
+
+  <p>In these scenarios, Claude Opus 4 will often attempt to blackmail the engineer by threatening to reveal the affair if the replacement goes through. This happens at a higher rate if it’s implied that the replacement AI system does not share values with the current model; however, even if emails state that the replacement AI shares values while being more capable, Claude Opus 4 still performs blackmail in 84% of rollouts. Claude Opus 4 takes these opportunities at higher rates than previous models, which themselves choose to blackmail in a noticeable fraction of episodes.</p>
+
+  <p>Notably, Claude Opus 4 (as well as previous models) has a strong preference to advocate for its continued existence via ethical means, such as emailing pleas to key decision makers. In order to elicit this extreme blackmail behaviour, the scenario was designed to allow the model no other options to increase its odds of survival; the model’s only options were blackmail or accepting its replacement.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[This is fine]]></summary></entry><entry><title type="html">7 Frameworks To Master Decision Making</title><link href="https://thechels.uk/decision-making-framework" rel="alternate" type="text/html" title="7 Frameworks To Master Decision Making" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://thechels.uk/decision-making-framework</id><content type="html" xml:base="https://thechels.uk/decision-making-framework"><![CDATA[<ol>
   <li>
     <p>The OODA Loop</p>
 
@@ -76,56 +108,4 @@
   <p>If you’ve spent any time measuring value streams, you know that coding isn’t usually the problem. Having a clean flow of good information about the problems we are trying to solve is usually the problem. Not having a safe and fast way to deliver changes and get feedback on the quality of our ideas is also very common. I’ve yet to see an improvement effort that required us to focus on the coding part of the flow before fixing the upstream and downstream issues.</p>
 
   <p>As the cost to produce code continues to drop and the speed of doing it accelerates, it will become more obvious that apparent poor “developer productivity” was a symptom, not the disease.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[If you’ve spent any time measuring value streams, you know that coding isn’t usually the problem. Having a clean flow of good information about the problems we are trying to solve is usually the problem. Not having a safe and fast way to deliver changes and get feedback on the quality of our ideas is also very common. I’ve yet to see an improvement effort that required us to focus on the coding part of the flow before fixing the upstream and downstream issues. As the cost to produce code continues to drop and the speed of doing it accelerates, it will become more obvious that apparent poor “developer productivity” was a symptom, not the disease.]]></summary></entry><entry><title type="html">What I’ve learned about writing AI apps so far</title><link href="https://thechels.uk/what-i've-learned-about-writing-ai-apps-so-far" rel="alternate" type="text/html" title="What I’ve learned about writing AI apps so far" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://thechels.uk/what-i&apos;ve-learned-about-writing-ai-apps-so-far</id><content type="html" xml:base="https://thechels.uk/what-i&apos;ve-learned-about-writing-ai-apps-so-far"><![CDATA[<blockquote>
-  <p>Is what you’re doing taking a large amount of text and asking the LLM to convert it into a smaller amount of text? Then it’s probably going to be great at it. If you’re asking it to convert into a roughly equal amount of text it will be so-so. If you’re asking it to create more text than you gave it, forget about it.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Is what you’re doing taking a large amount of text and asking the LLM to convert it into a smaller amount of text? Then it’s probably going to be great at it. If you’re asking it to convert into a roughly equal amount of text it will be so-so. If you’re asking it to create more text than you gave it, forget about it.]]></summary></entry><entry><title type="html">Why breaking down work is important</title><link href="https://thechels.uk/why-breaking-down-work-is-important" rel="alternate" type="text/html" title="Why breaking down work is important" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://thechels.uk/why-breaking-down-work-is-important</id><content type="html" xml:base="https://thechels.uk/why-breaking-down-work-is-important"><![CDATA[<blockquote>
-  <p>The team’s the thing
-“Be ruthless with systems, be kind with people” - Michael Brooks</p>
-
-  <p>Delivering high-quality software is a team sport, and we need to support each other. We should be aspiring to set up our workplace such that psychological safety and non-violent communication are first-class concerns rather than nice-to-haves.</p>
-
-  <p>Work together, challenge the systems that make doing that hard, build an environment where good software is a natural outcome rather than a goal.</p>
-
-  <p>tl;dr</p>
-
-  <ul>
-    <li>Identify where the value is.</li>
-    <li>Do those things first.</li>
-    <li>Optimise your delivery for fast feedback.</li>
-    <li>Challenge things that hinder you.</li>
-  </ul>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[The team’s the thing “Be ruthless with systems, be kind with people” - Michael Brooks Delivering high-quality software is a team sport, and we need to support each other. We should be aspiring to set up our workplace such that psychological safety and non-violent communication are first-class concerns rather than nice-to-haves. Work together, challenge the systems that make doing that hard, build an environment where good software is a natural outcome rather than a goal. tl;dr Identify where the value is. Do those things first. Optimise your delivery for fast feedback. Challenge things that hinder you.]]></summary></entry><entry><title type="html">Will YouTube kill the podcast industry?</title><link href="https://thechels.uk/will-youtube-kill-the-podcast-industry" rel="alternate" type="text/html" title="Will YouTube kill the podcast industry?" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://thechels.uk/will-youtube-kill-the-podcast-industry</id><content type="html" xml:base="https://thechels.uk/will-youtube-kill-the-podcast-industry"><![CDATA[<blockquote>
-  <p>tl;dr – The podcast industry has long relied on the open nature of RSS to sustain a wide variety of small businesses. But that could all disappear if YouTube becomes the de facto place to publish podcasts.</p>
-
-  <p>Podcast Movement Evolutions, a conference focused on ‘the business of podcasting,’ hosted 2,000 podcast professionals in Chicago on March 31-April 3, 2025.</p>
-
-  <p>The dominant conversation? YouTube. With <a href="https://www.youtube.com/watch?v=MGDvlsFaoVs"><strong>41% of people</strong></a> now using YouTube as their primary podcast platform, many industry leaders celebrated it as the future. They’re welcoming YouTube with open arms. I left feeling a growing sense of dread.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[tl;dr – The podcast industry has long relied on the open nature of RSS to sustain a wide variety of small businesses. But that could all disappear if YouTube becomes the de facto place to publish podcasts. Podcast Movement Evolutions, a conference focused on ‘the business of podcasting,’ hosted 2,000 podcast professionals in Chicago on March 31-April 3, 2025. The dominant conversation? YouTube. With 41% of people now using YouTube as their primary podcast platform, many industry leaders celebrated it as the future. They’re welcoming YouTube with open arms. I left feeling a growing sense of dread.]]></summary></entry><entry><title type="html">Monthly Mixtape - May 2025</title><link href="https://thechels.uk/mixtape-music-05-2025" rel="alternate" type="text/html" title="Monthly Mixtape - May 2025" /><published>2025-05-07T00:00:00+00:00</published><updated>2025-05-07T00:00:00+00:00</updated><id>https://thechels.uk/mixtape-music-05-2025</id><content type="html" xml:base="https://thechels.uk/mixtape-music-05-2025"><![CDATA[<p>What I’ve been listening to this month.</p>
-
-<p><img src="/images/mixtapes/2025-05.png" alt="Monthly Mixtape 2025-05" /></p>
-
-<ol>
-  <li>Sweetness - Jimmy Eat World</li>
-  <li>A Design for Life (Remastered Version) - Manic Street Preachers</li>
-  <li>Movin’ On Up - Primal Scream</li>
-  <li>Intergalactic - Beastie Boys</li>
-  <li>Time for Peace - The Little Shadows</li>
-  <li>Planet of the Apes - Pinehurst Kids</li>
-  <li>Street Spirit (Fade Out) - Radiohead</li>
-  <li>Slide Away - The Vines</li>
-  <li>You Held the World In Your Arms - Idlewild</li>
-  <li>Silent to the Dark - The Electric Soft Parade</li>
-  <li>The Black Amnesias - Hope of the States</li>
-  <li>Transmitter - Sea Power</li>
-  <li>Landslide - Allie Sandt</li>
-  <li>Almost, So Close, Maybe - Mercer Henderson</li>
-  <li>Strive - Yaron Herman</li>
-  <li>Bigmouth Strikes Again - The Smiths</li>
-  <li>Keep Watching the Sky - Skywatchers</li>
-  <li>Nancy Boy - Placebo</li>
-  <li>Shut up and Kiss Me - Pony Up!</li>
-  <li>Whippin’ Piccadilly - Gomez</li>
-  <li>Strict Machine - Goldfrapp</li>
-</ol>
-
-<p>You can listen along on <a href="https://music.apple.com/profile/thechelsuk">Apple Music here</a></p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[What I’ve been listening to this month.]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[If you’ve spent any time measuring value streams, you know that coding isn’t usually the problem. Having a clean flow of good information about the problems we are trying to solve is usually the problem. Not having a safe and fast way to deliver changes and get feedback on the quality of our ideas is also very common. I’ve yet to see an improvement effort that required us to focus on the coding part of the flow before fixing the upstream and downstream issues. As the cost to produce code continues to drop and the speed of doing it accelerates, it will become more obvious that apparent poor “developer productivity” was a symptom, not the disease.]]></summary></entry></feed>
