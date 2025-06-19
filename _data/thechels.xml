@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-06-19T08:41:43+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Hiyd Release version 1.1.0</title><link href="https://thechels.uk/release-version-110" rel="alternate" type="text/html" title="Hiyd Release version 1.1.0" /><published>2025-06-16T00:00:00+00:00</published><updated>2025-06-16T00:00:00+00:00</updated><id>https://thechels.uk/release-version-110</id><content type="html" xml:base="https://thechels.uk/release-version-110"><![CDATA[<p>Happy to announce a minor version bump to Hiyd; your Jekyll companion app.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-06-19T08:59:50+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Doing good software engineering first, then AI-assisted coding can help</title><link href="https://thechels.uk/ai-coding-skill" rel="alternate" type="text/html" title="Doing good software engineering first, then AI-assisted coding can help" /><published>2025-06-19T00:00:00+00:00</published><updated>2025-06-19T00:00:00+00:00</updated><id>https://thechels.uk/ai-coding-skill</id><content type="html" xml:base="https://thechels.uk/ai-coding-skill"><![CDATA[<blockquote>
+  <p>AI-assisted coding for teams that can’t get away with vibes</p>
+
+  <p>Atharva notes that AI is a multiplier: the more expertise you have in software engineering, the better the results you can get from LLMs. Furthermore, <em>what helps the human helps the AI</em>.</p>
+
+  <p>This means good test coverage, automatic linting, continuous integration and deployment, good documentation practices and “clearly defined features, broken down into multiple small story cards”.</p>
+
+  <p>If a team has all of this stuff in place, AI coding assistants will be able to operate more reliably and collaborate more effectively with their human overseers.</p>
+</blockquote>]]></content><author><name>Mat</name></author><category term="ai" /><summary type="html"><![CDATA[AI-assisted coding for teams that can't get away with vibes]]></summary></entry><entry><title type="html">Announcing Hiyd Extension</title><link href="https://thechels.uk/hiyd-extension" rel="alternate" type="text/html" title="Announcing Hiyd Extension" /><published>2025-06-19T00:00:00+00:00</published><updated>2025-06-19T00:00:00+00:00</updated><id>https://thechels.uk/hiyd-extension</id><content type="html" xml:base="https://thechels.uk/hiyd-extension"><![CDATA[<p>Today I’m happy to announce that Hiyd  extension is now generally available via the <a href="https://chromewebstore.google.com/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce">Chrome Web Store</a>.</p>
+
+<p>The extension captures selected text on a page and via the context menu allows the use to save this as a quote and creates a markdown file with Jekyll front matter.</p>
+
+<p>Save it to your Hiyd iCloud Drive folder to sync with the mobile app.</p>
+
+<p>Save it to your git repo to publish to your Jekyll blog.</p>
+
+<p>Code is open source on GitHub and it collects no data of any kind.
+You can find the source code on <a href="https://github.com/Hiyd-uk/hiyd-extension">GitHub here</a>.</p>]]></content><author><name>Mat</name></author><category term="hiyd" /><category term="jekyll" /><category term="extension" /><category term="chrome" /><category term="markdown" /><summary type="html"><![CDATA[Today I’m happy to announce that Hiyd extension is now generally available via the Chrome Web Store.]]></summary></entry><entry><title type="html">Monthly Mixtape - June 2025</title><link href="https://thechels.uk/mixtape-music-06-2025" rel="alternate" type="text/html" title="Monthly Mixtape - June 2025" /><published>2025-06-19T00:00:00+00:00</published><updated>2025-06-19T00:00:00+00:00</updated><id>https://thechels.uk/mixtape-music-06-2025</id><content type="html" xml:base="https://thechels.uk/mixtape-music-06-2025"><![CDATA[<p>What I’ve been listening to this month.</p>
+
+<p><img src="/images/mixtapes/2025-06.png" alt="Monthly Mixtape 2025-06" /></p>
+
+<ol>
+  <li>And She Was (2005 Remaster) - Talking Heads</li>
+  <li>Avalanche - Nick Cave &amp; The Bad Seeds</li>
+  <li>Here I Dreamt I Was an Architect - The Decemberists</li>
+  <li>Sun Don’t Leave Me - Raveena</li>
+  <li>First of the Gang to Die - Morrissey</li>
+  <li>Dead Flowers for Her - Skywatchers</li>
+  <li>Faint - LINKIN PARK</li>
+  <li>Pure - The Lightning Seeds</li>
+  <li>Charmless Man - Blur</li>
+  <li>Disintegrate - Suede</li>
+  <li>Sober - Elbow</li>
+  <li>7 Variations on “Bei Männern, welche Liebe fühlen”, WoO 46 (Transcr. For Double Bass and Piano by Solange Boukhobza): Var. 6 - Lorraine Campet &amp; Nathanaël Gouin</li>
+  <li>You Better You Bet - The Who</li>
+  <li>Wilbury Twist - The Traveling Wilburys</li>
+  <li>Bingo Bango - Basement Jaxx</li>
+  <li>Suffocation Blues - Black Pistol Fire</li>
+  <li>Lonely Boy - The Black Keys</li>
+  <li>Swing Low, Chariot - Sister O.M. Terrell</li>
+  <li>Red Eyes and Tears - Black Rebel Motorcycle Club</li>
+  <li>Fever - The Black Keys</li>
+  <li>Coming Home - JJ72</li>
+</ol>
+
+<p>You can listen along on <a href="https://music.apple.com/profile/thechelsuk">Apple Music here</a></p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[What I’ve been listening to this month.]]></summary></entry><entry><title type="html">Ongoing Offers- June 2025</title><link href="https://thechels.uk/ongoing-offers-june-2025" rel="alternate" type="text/html" title="Ongoing Offers- June 2025" /><published>2025-06-19T00:00:00+00:00</published><updated>2025-06-19T00:00:00+00:00</updated><id>https://thechels.uk/ongoing-offers-june-2025</id><content type="html" xml:base="https://thechels.uk/ongoing-offers-june-2025"><![CDATA[<ul>
+  <li><a href="https://bit.ly/3oD1nnS">£50 - Switch to Octopus Energy for £50 credit.</a></li>
+  <li><a href="https://i.smarty.co.uk/CSj6iK">£20 - gift card when you join Smarty</a></li>
+  <li><a href="https://www.zwift.com/invite/aEBmACSRGs">Get a free month on Zwift</a></li>
+  <li><a href="https://aklam.io/91zWhU?">£75 - when taking a 1000mb YouFibre broadband plan</a></li>
+  <li><a href="https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571">£5 free credit when you join the Electroverse</a></li>
+  <li><a href="https://www.starlingbank.com/referral/?code=f2tr2i">Join Starling bank and get two-person day pass to National Trust.</a></li>
+  <li><a href="https://tech.referrals.octopus.energy/ulLGI6SC">£25 - Visa card when you install an Octopus EV charger</a></li>
+</ul>
+
+<h2 id="support-indie-devs">Support Indie Devs</h2>
+
+<ul>
+  <li><a href="https://cybaa.io/?ref=thechels">Monitor your domains for security issues and get real time alerts</a></li>
+  <li><a href="https://thechelsuk.redbubble.com/">Support TheChels with Merch from Redbubble</a></li>
+  <li><a href="https://apps.apple.com/uk/app/engman/id6747295473">Get the Engineering Manager Coach App on iOS now</a></li>
+  <li><a href="https://apps.apple.com/us/app/hiyd/id6746853559">Get Hiyd - the Jekyll companion App on iOS now</a></li>
+</ul>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[£50 - Switch to Octopus Energy for £50 credit. £20 - gift card when you join Smarty Get a free month on Zwift £75 - when taking a 1000mb YouFibre broadband plan £5 free credit when you join the Electroverse Join Starling bank and get two-person day pass to National Trust. £25 - Visa card when you install an Octopus EV charger]]></summary></entry><entry><title type="html">Hiyd Release version 1.1.0</title><link href="https://thechels.uk/release-version-110" rel="alternate" type="text/html" title="Hiyd Release version 1.1.0" /><published>2025-06-16T00:00:00+00:00</published><updated>2025-06-16T00:00:00+00:00</updated><id>https://thechels.uk/release-version-110</id><content type="html" xml:base="https://thechels.uk/release-version-110"><![CDATA[<p>Happy to announce a minor version bump to Hiyd; your Jekyll companion app.</p>
 
 <p>The update includes a new full text search to the archive view and a new toggle to view the rendered markdown.</p>
 
@@ -57,33 +119,4 @@ The extracted text from all pages is combined into a single string.</p>
 Good things! I’m not retiring from writing apps — which means I’ll have a lot more time for working on NetNewsWire.</p>
 
   <p>It’s been 15 years since the last time I could work on NetNewsWire during weekdays (as opposed to just nights and weekends), and I’m super-psyched for this.</p>
-</blockquote>]]></content><author><name>Mat</name></author><category term="netnewswire" /><category term="apps" /><summary type="html"><![CDATA[I’m glad NetNewsWire is still being developed by Brent Simmons, who has announced his retirement. Sound like he will be focusing on NetNewsWire, which is great news for the app and its users (people like me who use it daily).]]></summary></entry><entry><title type="html">It is not your codebase</title><link href="https://thechels.uk/it-s-not-your-codebase-sean-goedecke" rel="alternate" type="text/html" title="It is not your codebase" /><published>2025-06-08T00:00:00+00:00</published><updated>2025-06-08T00:00:00+00:00</updated><id>https://thechels.uk/it-s-not-your-codebase-sean-goedecke</id><content type="html" xml:base="https://thechels.uk/it-s-not-your-codebase-sean-goedecke"><![CDATA[<p>I’m pretty confident that not a single piece of code I’ve written in a commerical/employed setting is still in use today. I don’t think that’s a bad thing.</p>
-
-<blockquote>
-  <p>Engineers often feel a lot of ownership over the code they write. That’s understandable: it’s partially their creation, and it’s also their workspace, so they have a direct interest in it being a nice place to work in.</p>
-
-  <p>This causes engineers to push back hard against attempts to ship “quick fixes” or to rush features out that would cause some technical debt. To them, it feels like their elegant codebase is being vandalized - as if someone came into their house and started tracking mud everywhere.</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[I’m pretty confident that not a single piece of code I’ve written in a commerical/employed setting is still in use today. I don’t think that’s a bad thing.]]></summary></entry><entry><title type="html">Moving from Notion to Obsidian</title><link href="https://thechels.uk/moving-from-notion-to-obsidian-daverupert-com" rel="alternate" type="text/html" title="Moving from Notion to Obsidian" /><published>2025-06-08T00:00:00+00:00</published><updated>2025-06-08T00:00:00+00:00</updated><id>https://thechels.uk/moving-from-notion-to-obsidian-daverupert-com</id><content type="html" xml:base="https://thechels.uk/moving-from-notion-to-obsidian-daverupert-com"><![CDATA[<p>As it turns out. Markdown <em>is</em> the new gold.</p>
-
-<blockquote>
-  <p>Nothing beats a folder full of markdown files
-Obsidian reinforces a lesson I’ve learned from my last decade and a half of blogging; nothing beats a folder full of markdown files. A note-taking app doesn’t have to be complex machinery. A little bit of YAML frontmatter can go a long way.</p>
-
-  <p>This migration identified one subtle problem I didn’t know I had; I “over-databased” in Notion. I created entire sections in Notion with a database to get the editable table UI. This creates a lot of click-thru flows, excess documents, and feels like building an entire CMS for a one-page website. Obsidian nudges me to think more simple.</p>
-</blockquote>]]></content><author><name>Mat</name></author><category term="process" /><category term="productivity" /><summary type="html"><![CDATA[As it turns out. Markdown is the new gold.]]></summary></entry><entry><title type="html">The promise that wasn’t kept</title><link href="https://thechels.uk/the-promise-that-wasn-t-kept" rel="alternate" type="text/html" title="The promise that wasn’t kept" /><published>2025-06-08T00:00:00+00:00</published><updated>2025-06-08T00:00:00+00:00</updated><id>https://thechels.uk/the-promise-that-wasn-t-kept</id><content type="html" xml:base="https://thechels.uk/the-promise-that-wasn-t-kept"><![CDATA[<p>Literally yes, but figuratively no, well maybe not, it depends. If you are shipping insecure software that you don’t know how to debug, scale, then you are not a software engineer, at least not yet. CI/CD principles, lean, xp, agile delivery, test-driven development and teaming (mob/group/social programming) are all tools that solve this. If you don’t have the discipline and the processes in place it makes little difference if you have used AI or not.</p>
-
-<p>Code is only as good as the delivery mechanism used to give it to the user.</p>
-
-<blockquote>
-  <p>What’s more, there’s the environmental impacts of AI, which are only just beginning to emerge. An MIT article titled Explained: Generative AI’s environmental impact outlines how the rapid expansion of generative AI presents significant sustainability challenges, including electricity and water overuse, hardware-related emissions, and increasing pressure on power grids.</p>
-
-  <p>The world is already cooked. And yet, we’re cooking it more — literally, and figuratively — by shipping insecure software into the void that we have no idea how to debug, scale, or extend. In the not-so-distant future, LLMs will be trained purely on LLM-generated software, and the world will eat itself.</p>
-
-  <p>I challenge you to find the value in that.</p>
-</blockquote>]]></content><author><name>Mat</name></author><category term="ai" /><category term="software engineering" /><category term="ethics" /><summary type="html"><![CDATA[Literally yes, but figuratively no, well maybe not, it depends. If you are shipping insecure software that you don’t know how to debug, scale, then you are not a software engineer, at least not yet. CI/CD principles, lean, xp, agile delivery, test-driven development and teaming (mob/group/social programming) are all tools that solve this. If you don’t have the discipline and the processes in place it makes little difference if you have used AI or not.]]></summary></entry><entry><title type="html">OTP Delivery via WhatsApp in Microsoft Entra ID</title><link href="https://thechels.uk/what-s-new-in-microsoft-entra-microsoft-community-hub" rel="alternate" type="text/html" title="OTP Delivery via WhatsApp in Microsoft Entra ID" /><published>2025-06-08T00:00:00+00:00</published><updated>2025-06-08T00:00:00+00:00</updated><id>https://thechels.uk/what-s-new-in-microsoft-entra-microsoft-community-hub</id><content type="html" xml:base="https://thechels.uk/what-s-new-in-microsoft-entra-microsoft-community-hub"><![CDATA[<p>Some what dated news, but recently discovered.</p>
-
-<blockquote>
-  <p>Today, Entra ID (Azure AD) MFA supports delivering one-time passcodes (OTPs) via text message. These texts get sent to the default messaging app on a user’s phone depending on the phone’s operating system. In many countries though, these default apps aren’t users’ primary messaging apps. To help deliver OTPs to users on their preferred messaging platforms, Entra ID will roll out OTP delivery to WhatsApp in select regions.</p>
-
-  <p>Starting mid-September 2023, users in India, Indonesia, and New Zealand may start receiving MFA text messages via WhatsApp. Users that fit the following criteria are subject, but not guaranteed, to receive the updated experience</p>
-</blockquote>]]></content><author><name>Mat</name></author><category term="microsoft" /><category term="entra" /><category term="whatsapp" /><summary type="html"><![CDATA[Some what dated news, but recently discovered.]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Mat</name></author><category term="netnewswire" /><category term="apps" /><summary type="html"><![CDATA[I’m glad NetNewsWire is still being developed by Brent Simmons, who has announced his retirement. Sound like he will be focusing on NetNewsWire, which is great news for the app and its users (people like me who use it daily).]]></summary></entry></feed>
