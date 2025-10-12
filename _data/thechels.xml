@@ -1,1 +1,139 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'thechels.uk',cType: 'managed',cRay: '98d87a2abe90f856',cH: 'Ak2yCvMGPlI9NzoEUJpzXZcCvilrZfRoIH7JaE9hGIU-1760291821-1.2.1.1-kuHhq_YCKNh4EfrZBAsI7aysEg107SKgI7QLAuYYaf4KEYwgnBtPUh7.VKYxGPOn',cUPMDTk:"\/feed?__cf_chl_tk=wZspGvX0nzMKjQShm3U86D4Q7xM.uBKRs4pLMIk7QLc-1760291821-1.0.1.1-AuPm4CAGe5ZGxXG3yro6AxzOoaOfWW5YJhBAbqqw9Ww",cFPWv: 'g',cITimeS: '1760291821',cTplC:0,cTplV:5,cTplB: 'cf',fa:"\/feed?__cf_chl_f_tk=wZspGvX0nzMKjQShm3U86D4Q7xM.uBKRs4pLMIk7QLc-1760291821-1.0.1.1-AuPm4CAGe5ZGxXG3yro6AxzOoaOfWW5YJhBAbqqw9Ww",md: 'RzDvbyLgS1WWyHZxDfIXAruwvpLOVek8nB_Wp7T4J7U-1760291821-1.2.1.1-4_I05Bka68eHTyrkC4ctIYVW5yvwYgcLdX62fji0XrKHyD4ZcdAKArggFVEApIYiuAl2eHEvglqTPB_BlUdDFQh5aYE21T3HXVyWDJlJDXby6ZmLpS5.TR_rYMqsPU2kSOalPMUeCjRk5vMcaOEzIaVCNBXntpZEtHSD3Yx.0PlJ_PYE92VeumjIb5BbxN9epQ4EGcFLsJ3y7N_Cq8vk6S7OvmtiG_FqeTRt.tRfk3gWPOS5gH4xFyscZnqvNyqNO1AXdzZojqCY.Yp1j4YlnqLbSymA24duGem6EiD4vaWVWJve0Gky2jJ.eR3W5IGwOWf6DwDNOZF.CEptgY8BbvX.w0eFJNhcbGKvz8o.il5uVlIYib_Y9lq5Jn5pF_9xVIU3oUzbAgyzoY21vWKj4MRVxMCkRAtaJ0JUQcwfFo_EIpmbSSAPouFgYtrsOtD0PfKS9M27nOfWb40L1AHmaarGW8XpWGnFAzQl2Y3ji9Gz7P_1fNlyyJD04tdVIhhQGlriWdmheIA4o4ZJw35i2IMPOMYTxhcO.6.Ln1AmAISQAs.DdzRpkrs2cpFP3ZQ50vc1J53dgDkBU4E3fA5DYg5qkS1xJEyB8mwfTIUnpmvj4c76_f5K_0fv5NPRuSdeqxz4ATo5APpRqHBijdr3toi7C1UM0sMlz1vzdh8kyTlmr8yu8A9eu5Q3.6bJ.k5wNEXTgCuHL_gxFYsNCrAfAWxzOjQop_Ca65Hx77dGOUn5BYkWVwAdP9NvA5wGhXSYmrczvXuZVMMPlE1MULdS6ZJKx2XgzG0OYLMNbWDLPsI',mdrd: 'UQ6z8AY9HI7dzsfW05bB9SnZO6tlsJxX28Pl7p2Qayw-1760291821-1.2.1.1-LCDMUmWHDaH5zat6qNggtMjW_R.6NqheyRbrULD95hfqFtb6bYM4fzHOijLqJFKOfVbxsrYto.AsUfi0Teh2sFMav0dHnxR_Y1ezMNXZJnd15zQgHBtlcW6MX5F71RCt.v8aYFaWsFvOsnms6W3DmMy2gofH8DO629w3gCERgv9Ho.GQJYXUjAurm7o8MhIla_UiFjPqY1hXqiUfadbDmdN9CdDE1uORf38XpA1QjbQaXHIAa4ahiwDYlCkiVuQ5j8tK14E_rUclRlKirzCAkhA8k7KeHQj370cS4K39MuWWrTN7C.vRDePjRgu_4VQgQFQzeMURez1bbZLpvTYHOyP65GN80HJmb4UiURNULQpY5Wpt.J2NVqQuK2M_F2N6nhM2HJPobJ8p8r3ZAr8G_yVC_KOcRJNlTQOuhKOkpxWxG_aeq7V5YzpzOzk1aga5DJTCIBDOhKCCtmpqgE7WAK0__Aih8_WQAO1swwV92giYMikyE5yn.AxZqXbk0OyOd4BiQWdQDtER.7PHlz5U4wuMPXK0ucjdKjexyGX3bftoBn3M.CIzCzDSZgveofnDnqg0erW7q0AgLAfgqEz4KBcwVdI2Udby0eXvpX7hY9Whl8VnK77GupvJTvTEPngKbY.qrwYEZ6k6eRW4VG0Y0Q.30FR_SZeiRxP4pgYpKAN.75EAo5lVEX2iEKHnd5ZSo3Jnlizq51GKYBeHSqDxuu3_bvFPLrrT4q1QDP.3gf0MUm33FH3ofKxeNc7XuZL5qyvCWq5h_PsP5OJMYGK71dhXHanl1T6eSrandFQClGUdq4TETdf3xBHaAo8NrYnOeE1MrS6sRq5tmIq6bPFUG_e_9aQMKIzzvQfJNwG8z4qba6xe2PJfAGz3ygsyhT.QWcWhDDHsrW5EH7UL4JvEkjVsXTTdnD7he1LPUxfNVZrtPf6e_gu6J.gMs9WuKuIMOQwAoZTIh_0ad7Aspj2v7q.LU81W87Sn6EAo01ztPGvyEKcAfBJtlaTEivhy3s9mGqS0PidLAAM5NtoWGgrifjuylnJQhcWjQ6CF7y3Hsj_HbvmqvBtGdO1j6Vr2iZ2IuWHSyc2PDHIULphb_HGMMy0MIxW1IIOC60oYux9NGCN7a8zIrhEFB3rajurRlgTZNKLdYzQ9nSQwXxq0AmoJcPiwBUUTPL5ws7e8RgvE43lCYjrho_B1WcOdMKcEkI77_2CYsz.tBr3qoaHQzum.A5vQ9shcnEH1XO7RxTbr.jOx0vxHzM5Tewx18CXrwV_uWbv0EBC.IGBAf.N1k.1pm8U_fPOF6DDjnO.eyRmtIsPNFO7El53wrKUSkMlCJ83wo339g19pSrt.vZJHakf0vjMWpAjnG6qu0R1lo2IQ4NsYmmk8wWdCKwUdN9ChqLrKSjRaLY0y2cmOYAgpbg..3MQbJo.Jf0edYmrFkprJtM3l7HZ0G3Ravx9CVRidJ1WmC_dWH_HKExJBRBdMxSOmDn7ifwfpQ41DXGyENYBuXtq.4xhdcBiStZCqlNYOsvu.jo_Pvr5PrCzuTYCXx9rXjIVXMc.5jZn7H3TW4L9MNS92M7s3iF6clidAMZ8BK3F8bj9Z7guooj3o7b7aS7q_sumrfjFHfYF_sOHabfO8BIg3u5ex6Jw3CA0GUaVG3fW364twp6ArUz10VkGXmAhcyytBQTvMgBligfKB3VxVw4JiFelHkGnHGj42HO9Dt7lY0IxkPj1aHwzyRWaKmKdr56o1fLr6aXXGxttM5nfJ8aTJ3qDXdlAuzncOySEkLff75fAwXvRJyMfLfedTasP2y1e3K89QvUB0rEf3NiUht06kJVEKSTA9xjKPTxnCsSSBJmfC35Q.33rgOYUspCKTz0v_ub9.DlRgQrsYSioIrNGNAy0EFxxID.CpCqmW.GDKrb00J.W.jrunR4tX5a.zLBXGEgPUTFYNnq.57xEd5A223oGcQd9z5mR3c7YJjwXCFKxgncrxUJcxph8W51NIg.Jzyg03A997uOpbUEtgT2dLcVWq0BfS08tT1QaZ46Yz0j8lr1lvf0UO8s8r7iNAZz2rqzJQW8FT5cjR_BY7KsAka3pPa3XqER12ciogjijac4G4immBsxeIJImQ41XXGpY_.4z7BrHB5tNdiA2L4neoSUpHRGXFcApC0VauPYwrzGR.g2tubLJrIp5NQf3gwoKOkKDxPODOJ9cjszySNMSuvLuAVK16Of3wuVR3FatPQtUgkdJGd.ZXWqDTDfzjZ59jH4nCtOBhmhKbJrcMnLqNx41Zpi6ejVvAFMuY.M1CddNJiBZdcA66K_xBLZF2WTSO2VBnWRohckNG7d_lechsgxtbucz.WQkQOPgCJMaOmNKiVCnn24k1J9tk.z_2aBpkP2WyxUpLUZgko.fdXyg',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98d87a2abe90f856';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/feed?__cf_chl_rt_tk=wZspGvX0nzMKjQShm3U86D4Q7xM.uBKRs4pLMIk7QLc-1760291821-1.0.1.1-AuPm4CAGe5ZGxXG3yro6AxzOoaOfWW5YJhBAbqqw9Ww"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-10-12T18:07:31+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Free the web</title><link href="https://thechels.uk/free-the-web" rel="alternate" type="text/html" title="Free the web" /><published>2025-10-09T00:00:00+00:00</published><updated>2025-10-09T00:00:00+00:00</updated><id>https://thechels.uk/free-the-web</id><content type="html" xml:base="https://thechels.uk/free-the-web"><![CDATA[<p>When website security doesn’t have fallbacks for visitors when using basic browser security tools.</p>
+
+<p>The web used to be open, it’s now behind are verification, captchas and human verification as well as cookie banners.</p>
+
+<blockquote>
+  <p>It shouldn’t. But if the browser is overly hardened, such as blocking all cookies, it may cause the looping issue. <a href="https://community.cloudflare.com/t/cloudflare-blocking-me-randomly/620706">1</a></p>
+</blockquote>
+
+<blockquote>
+  <p>Normally, instances like this are attributable to an ad blocker plugin. <a href="https://community.cloudflare.com/t/cloudflare-blocking-me/234356">2</a></p>
+</blockquote>
+
+<blockquote>
+  <p>Disable ad blockers, update your OS and/or browser, try incognito mode, check your IP reputation, and/or try a mobile device. <a href="https://community.cloudflare.com/t/i-dont-know/535972">3</a></p>
+</blockquote>
+
+<p>Edit:</p>
+
+<p>I had to sell my modest Premium Bonds to pay the bills and it didn’t work 4 times in a row on my mobile device.</p>
+
+<blockquote>
+  <p>I’m sorry to hear that - please ensure you’re using a stable internet connection when accessing the website.</p>
+</blockquote>
+
+<blockquote>
+  <p>VPN software, browser extensions and internet connection issues may interfere with the functionality of the website - please turn them off if you are using any.</p>
+</blockquote>
+
+<blockquote>
+  <p>In many cases issues can be fixed by making sure your browser is up to date or by using an alternative browser. Different browsers are more reliable on certain devices.</p>
+</blockquote>
+
+<p>Premium Bonds are held with N&amp;SI backed by HM Treasury. The. Government.</p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[When website security doesn’t have fallbacks for visitors when using basic browser security tools.]]></summary></entry><entry><title type="html">Monthly Mixtape - Sep 2025</title><link href="https://thechels.uk/mixtape-musix-09-2025" rel="alternate" type="text/html" title="Monthly Mixtape - Sep 2025" /><published>2025-10-05T00:00:00+00:00</published><updated>2025-10-05T00:00:00+00:00</updated><id>https://thechels.uk/mixtape-musix-09-2025</id><content type="html" xml:base="https://thechels.uk/mixtape-musix-09-2025"><![CDATA[<p>What I’ve been listening to this month.</p>
+
+<p><img src="/images/mixtapes/2025-09.png" alt="Monthly Mixtape 2025-09" /></p>
+
+<ol>
+  <li>The Middle - Jimmy Eat World</li>
+  <li>Orange Crush (Remastered 2013) - R.E.M.</li>
+  <li>Temptation Waits (2018 Remaster) - Garbage</li>
+  <li>Round Here - Counting Crows</li>
+  <li>A Murder of One - Counting Crows</li>
+  <li>Linger - The Cranberries</li>
+  <li>Road To Nowhere (2005 Remaster) - Talking Heads</li>
+  <li>There’s No Future In Optimism - Garbage</li>
+  <li>Meds (feat. Alison Mosshart) - Placebo</li>
+  <li>English Summer Rain - Placebo</li>
+  <li>The Wild Ones - Suede</li>
+  <li>Everyday Is Like Sunday - Morrissey</li>
+  <li>Zombie (2025 Remastered) - The Cranberries</li>
+  <li>Leaders of the Free World - Elbow</li>
+  <li>Irish Blood, English Heart - Morrissey</li>
+  <li>Destiny Calling - James</li>
+  <li>orange show speedway - Lizzy McAlpine</li>
+  <li>Dead Flowers for Her - Skywatchers</li>
+  <li>Here I Dreamt I Was an Architect - The Decemberists</li>
+  <li>Avalanche - Nick Cave &amp; The Bad Seeds</li>
+  <li>Little By Little - Oasis</li>
+  <li>There Is a Light That Never Goes Out - The Smiths</li>
+  <li>High and Dry - Radiohead</li>
+  <li>My Insatiable One - Suede</li>
+</ol>
+
+<p>You can listen along on <a href="https://music.apple.com/profile/thechelsuk">Apple Music here</a></p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[What I’ve been listening to this month.]]></summary></entry><entry><title type="html">Recommended RSS readers</title><link href="https://thechels.uk/recommended-rss-readers" rel="alternate" type="text/html" title="Recommended RSS readers" /><published>2025-10-05T00:00:00+00:00</published><updated>2025-10-05T00:00:00+00:00</updated><id>https://thechels.uk/recommended-rss-readers</id><content type="html" xml:base="https://thechels.uk/recommended-rss-readers"><![CDATA[<blockquote>
+  <p>RSS has been my preferred way to read content on the web for over a decade now (RIP Google Reader). It’s a clean, efficient and simple way to curate your own news and content from across the web.</p>
+</blockquote>
+
+<blockquote>
+  <p>I’ll leave it to Molly White to <a href="https://www.citationneeded.news/curate-with-rss/">much more eloquently expound upon the benefits of RSS generally</a>, but I wanted to add post a list of RSS readers that I recommend.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[RSS has been my preferred way to read content on the web for over a decade now (RIP Google Reader). It’s a clean, efficient and simple way to curate your own news and content from across the web.]]></summary></entry><entry><title type="html">Why NetNewsWire Is Not a Web App</title><link href="https://thechels.uk/why-netnewswire-is-not-a-web-app" rel="alternate" type="text/html" title="Why NetNewsWire Is Not a Web App" /><published>2025-10-05T00:00:00+00:00</published><updated>2025-10-05T00:00:00+00:00</updated><id>https://thechels.uk/why-netnewswire-is-not-a-web-app</id><content type="html" xml:base="https://thechels.uk/why-netnewswire-is-not-a-web-app"><![CDATA[<blockquote>
+  <p>But what if I wanted to do a web app, in addition to or instead of a native app?</p>
+</blockquote>
+
+<blockquote>
+  <p>I can picture a future, as I bet you can, where RSS readers aren’t allowed on any app store, and we’re essentially required to use billionaire-owned social media and platform-owned news apps.</p>
+</blockquote>
+
+<blockquote>
+  <p>But there are issues with making NetNewsWire a web app.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[But what if I wanted to do a web app, in addition to or instead of a native app?]]></summary></entry><entry><title type="html">Apple on the Digital Markets Act</title><link href="https://thechels.uk/apple-on-the-digital-markets-act" rel="alternate" type="text/html" title="Apple on the Digital Markets Act" /><published>2025-10-04T00:00:00+00:00</published><updated>2025-10-04T00:00:00+00:00</updated><id>https://thechels.uk/apple-on-the-digital-markets-act</id><content type="html" xml:base="https://thechels.uk/apple-on-the-digital-markets-act"><![CDATA[<blockquote>
+  <p>Live Translation with AirPods and iPhone Mirroring are both <em>amazing</em> features. And EU users are missing out on them. I think Apple structured this piece exactly right, by emphasizing first that the most direct effect of the DMA is that EU users are getting great features late – or never. And that list of features is only going to grow over time.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Live Translation with AirPods and iPhone Mirroring are both amazing features. And EU users are missing out on them. I think Apple structured this piece exactly right, by emphasizing first that the most direct effect of the DMA is that EU users are getting great features late – or never. And that list of features is only going to grow over time.]]></summary></entry><entry><title type="html">Myalgic encephalomyelitis (ME/CFS)</title><link href="https://thechels.uk/me-cfs-nice-guidelines" rel="alternate" type="text/html" title="Myalgic encephalomyelitis (ME/CFS)" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>https://thechels.uk/me-cfs-nice-guidelines</id><content type="html" xml:base="https://thechels.uk/me-cfs-nice-guidelines"><![CDATA[<blockquote>
+  <p>Summary</p>
+</blockquote>
+
+<blockquote>
+  <ul>
+    <li>Myalgic encephalomyelitis or encephalopathy (ME) or chronic fatigue syndrome (CFS) is a complex chronic condition defined by a specific pattern of different symptoms that impact a person’s quality of life and functioning.
+      <ul>
+        <li>There is typically a clear relationship between normal everyday activity levels causing a disproportionate escalation in fatigue, which does not improve with rest and is slow to recover.</li>
+        <li>The exact pathophysiology is not fully understood.</li>
+        <li>Symptoms typically fluctuate and can change unpredictably in nature and severity over a day, week, or longer.</li>
+      </ul>
+    </li>
+    <li>A flare-up describes a worsening of symptoms, more than would be accounted for by normal day-to-day variation, that affects the person’s ability to perform usual activities. It is typically transient and resolves after a few days.</li>
+    <li>A relapse describes a sustained and marked exacerbation of symptoms lasting longer than a flare-up and needing a substantial and sustained adjustment to the person’s energy management.</li>
+    <li><em>Triggers may include acute infection or illness, overexertion, injury or trauma, other medical conditions, sleep disturbance, or stress. There may be no identifiable trigger.</em></li>
+    <li>Complications include reduced quality of life, social stigma, loss of trust in healthcare and social care professionals, and impact on mental health, education, and work.</li>
+    <li>There is no diagnostic test for ME/CFS. A diagnosis should be suspected if the person has the following symptoms for at least 6 weeks that significantly impact functioning and are not explained by another condition:
+      <ul>
+        <li>Debilitating fatigue that is worsened by activity, is not caused by excessive cognitive, physical, emotional, or social exertion, and is not significantly relieved by rest.</li>
+        <li>Post-exertional malaise after activity.</li>
+        <li>Unrefreshing sleep or sleep disturbance (or both).</li>
+        <li>Cognitive difficulties.</li>
+        <li>There may be additional symptoms associated with autonomic dysfunction, pain, the gastrointestinal tract, and sensory hypersensitivities, for example.</li>
+      </ul>
+    </li>
+    <li>Investigations should be arranged to exclude alternative or coexisting conditions, including blood tests and urinalysis.</li>
+    <li>Adults with persistent symptoms after 3 months should be referred to an ME/CFS specialist team for confirmation of the diagnosis and development of a personalized care and support plan.</li>
+    <li>Review of a person with confirmed ME/CFS should be arranged at least annually in primary care, including:
+      <ul>
+        <li>Assessing current or new symptoms and investigating appropriately.</li>
+        <li>Reviewing psychological, emotional, and social wellbeing; self-management strategies; and impact on functioning.</li>
+        <li>Advising about sources of information and support.</li>
+        <li>Reviewing and revising the specialist energy management plan, physical functioning and mobility, and physical activity or exercise programme (if relevant).</li>
+        <li>Considering referral to a physiotherapist or occupational therapist working in an ME/CFS specialist team if needed.</li>
+        <li>Reviewing the person’s support needs, including medicines management; education, training, or employment needs; financial and social care support.</li>
+        <li>Managing any associated conditions and comorbidities including mental health, nutrition and bone health advice.</li>
+        <li>Offering referral for cognitive behavioural therapy if the person wishes for this.</li>
+        <li>Ensuring early recognition, planning for, and self-management of flare-ups or relapse.</li>
+        <li>Providing a named contact in primary care and/or the ME/CFS specialist team to co-ordinate care and provide supports.</li>
+      </ul>
+    </li>
+  </ul>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Summary]]></summary></entry><entry><title type="html">UK Gov Issues New Order to Access iCloud User Data</title><link href="https://thechels.uk/uk-gov-issues-new-order-to-access-icloud-user-data" rel="alternate" type="text/html" title="UK Gov Issues New Order to Access iCloud User Data" /><published>2025-10-01T00:00:00+00:00</published><updated>2025-10-01T00:00:00+00:00</updated><id>https://thechels.uk/uk-gov-issues-new-order-to-access-icloud-user-data</id><content type="html" xml:base="https://thechels.uk/uk-gov-issues-new-order-to-access-icloud-user-data"><![CDATA[<blockquote>
+  <p>The UK government has issued a new request for Apple to provide access to encrypted icloud user data, the Financial Times reports.</p>
+</blockquote>
+
+<p>The report reveals that, in early September, the UK Home Office demanded that Apple creates a way for officials to access encrypted ‌iCloud‌ backups. Unlike its previous order, the latest request focuses on the ‌iCloud‌ data of British citizens specifically.</p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[The UK government has issued a new request for Apple to provide access to encrypted icloud user data, the Financial Times reports.]]></summary></entry><entry><title type="html">Apple Sports expands</title><link href="https://thechels.uk/apple-sports-expands" rel="alternate" type="text/html" title="Apple Sports expands" /><published>2025-09-23T00:00:00+00:00</published><updated>2025-09-23T00:00:00+00:00</updated><id>https://thechels.uk/apple-sports-expands</id><content type="html" xml:base="https://thechels.uk/apple-sports-expands"><![CDATA[<p>Not yet women’s football from anywhere in Europe.</p>
+
+<blockquote>
+  <p>Apple Sports is also expanding and now available for free in eight additional countries: Austria, France, Germany, Iceland, Ireland, Italy, Portugal, and Spain. League coverage continues to grow as well, with the addition of new European soccer competitions, including the 2. Bundesliga, Ligue 2, Segunda División, Serie B, and Primeira Liga.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Not yet women’s football from anywhere in Europe.]]></summary></entry><entry><title type="html">Wake-Up Call</title><link href="https://thechels.uk/wake-up-call" rel="alternate" type="text/html" title="Wake-Up Call" /><published>2025-09-23T00:00:00+00:00</published><updated>2025-09-23T00:00:00+00:00</updated><id>https://thechels.uk/wake-up-call</id><content type="html" xml:base="https://thechels.uk/wake-up-call"><![CDATA[<blockquote>
+  <p>The big problem is YouTube. With YouTube, Google has a centralized chokehold on video. We need a way that’s as easy and scalable to host video content, independently, as it is for written content. I don’t know what the answer to that is, technically, but we ought to start working on it with urgency.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[The big problem is YouTube. With YouTube, Google has a centralized chokehold on video. We need a way that’s as easy and scalable to host video content, independently, as it is for written content. I don’t know what the answer to that is, technically, but we ought to start working on it with urgency.]]></summary></entry><entry><title type="html">Blood Pressure support in Apple Watch Series 9+</title><link href="https://thechels.uk/hypertension-support-watch-9" rel="alternate" type="text/html" title="Blood Pressure support in Apple Watch Series 9+" /><published>2025-09-09T00:00:00+00:00</published><updated>2025-09-09T00:00:00+00:00</updated><id>https://thechels.uk/hypertension-support-watch-9</id><content type="html" xml:base="https://thechels.uk/hypertension-support-watch-9"><![CDATA[<blockquote>
+  <ul>
+    <li>As of 9 September 2025, hypertension notifications are pending regulatory review and expected to be cleared this month, with availability on Apple Watch Series 9 and later and Apple Watch Ultra 2 and later. The feature is not intended for use by people under 22 years old, those who have been previously diagnosed with hypertension, or pregnant persons.</li>
+  </ul>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[As of 9 September 2025, hypertension notifications are pending regulatory review and expected to be cleared this month, with availability on Apple Watch Series 9 and later and Apple Watch Ultra 2 and later. The feature is not intended for use by people under 22 years old, those who have been previously diagnosed with hypertension, or pregnant persons.]]></summary></entry></feed>
