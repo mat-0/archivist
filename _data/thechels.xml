@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-11-01T06:04:44+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">Monthly Mixtape - Oct 2025</title><link href="https://thechels.uk/monthly-mixtape-oct-2025" rel="alternate" type="text/html" title="Monthly Mixtape - Oct 2025" /><published>2025-10-26T00:00:00+00:00</published><updated>2025-10-26T00:00:00+00:00</updated><id>https://thechels.uk/monthly-mixtape-oct-2025</id><content type="html" xml:base="https://thechels.uk/monthly-mixtape-oct-2025"><![CDATA[<p>What I’ve been listening to this month.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://thechels.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thechels.uk/" rel="alternate" type="text/html" /><updated>2025-11-01T14:31:25+00:00</updated><id>https://thechels.uk/feed.xml</id><title type="html">Weak Notes</title><subtitle>// A working out loud, public second brain</subtitle><author><name>Mat</name></author><entry><title type="html">The PSF has withdrawn a 1.5 million proposal to US gov grant</title><link href="https://thechels.uk/the-psf-has-withdrawn-a-1.5-million-proposal-to-us-gov-grant" rel="alternate" type="text/html" title="The PSF has withdrawn a 1.5 million proposal to US gov grant" /><published>2025-10-28T00:00:00+00:00</published><updated>2025-10-28T00:00:00+00:00</updated><id>https://thechels.uk/the-psf-has-withdrawn-a-1.5-million-proposal-to-us-gov-grant</id><content type="html" xml:base="https://thechels.uk/the-psf-has-withdrawn-a-1.5-million-proposal-to-us-gov-grant"><![CDATA[<p>Class.</p>
+
+<blockquote>
+  <p>our proposal was recommended for funding, particularly as only <a href="https://www.nsf.gov/funding/overview">36% </a>of new NSF grant applicants are successful on their first attempt. We became concerned, however, when we were presented with the terms and conditions we would be required to agree to if we accepted the grant. These terms included affirming the statement that we “do not, and will not during the term of this financial assistance award, operate any programs that advance or promote DEI, or discriminatory equity ideology in violation of Federal anti-discrimination laws.” This restriction would apply not only to the security work directly funded by the grant, but to any and all activity of the PSF as a whole. Further, violation of this term gave the NSF the right to “claw back” previously approved and transferred funds. This would create a situation where money we’d already spent could be taken back, which would be an enormous, open-ended financial risk.</p>
+</blockquote>
+
+<blockquote>
+  <p>Diversity, equity, and inclusion are core to the PSF’s values, as committed to in our <a href="https://www.python.org/psf/mission/">mission statement</a>:</p>
+</blockquote>
+
+<blockquote>
+  <p><em>The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of <strong>a diverse and international community</strong> of Python programmers.</em></p>
+</blockquote>
+
+<blockquote>
+  <p>Given the value of the grant to the community and the PSF, we did our utmost to get clarity on the terms and to find a way to move forward in concert with our values. We consulted our NSF contacts and reviewed decisions made by other organizations in similar circumstances, particularly <a href="https://carpentries.org/blog/2025/06/announcing-withdrawal-of-nsf-pose-proposal/">The Carpentries</a>.</p>
+</blockquote>
+
+<blockquote>
+  <p>In the end, however, the PSF simply can’t agree to a statement that we won’t operate any programs that “advance or promote” diversity, equity, and inclusion, as it would be a betrayal of our mission and our community.</p>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Class.]]></summary></entry><entry><title type="html">Monthly Mixtape - Oct 2025</title><link href="https://thechels.uk/monthly-mixtape-oct-2025" rel="alternate" type="text/html" title="Monthly Mixtape - Oct 2025" /><published>2025-10-26T00:00:00+00:00</published><updated>2025-10-26T00:00:00+00:00</updated><id>https://thechels.uk/monthly-mixtape-oct-2025</id><content type="html" xml:base="https://thechels.uk/monthly-mixtape-oct-2025"><![CDATA[<p>What I’ve been listening to this month.</p>
 
 <p><img src="/images/mixtapes/2025-10.png" alt="Monthly Mixtape 2025-10" /></p>
 
@@ -155,36 +175,4 @@
   <p>Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.</p>
 
   <p>(Brian Kernighan)</p>
-</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. (Brian Kernighan)]]></summary></entry><entry><title type="html">Free the web</title><link href="https://thechels.uk/free-the-web" rel="alternate" type="text/html" title="Free the web" /><published>2025-10-09T00:00:00+00:00</published><updated>2025-10-09T00:00:00+00:00</updated><id>https://thechels.uk/free-the-web</id><content type="html" xml:base="https://thechels.uk/free-the-web"><![CDATA[<p>When website security doesn’t have fallbacks for visitors when using basic browser security tools.</p>
-
-<p>The web used to be open, it’s now behind are verification, captchas and human verification as well as cookie banners.</p>
-
-<blockquote>
-  <p>It shouldn’t. But if the browser is overly hardened, such as blocking all cookies, it may cause the looping issue. <a href="https://community.cloudflare.com/t/cloudflare-blocking-me-randomly/620706">1</a></p>
-</blockquote>
-
-<blockquote>
-  <p>Normally, instances like this are attributable to an ad blocker plugin. <a href="https://community.cloudflare.com/t/cloudflare-blocking-me/234356">2</a></p>
-</blockquote>
-
-<blockquote>
-  <p>Disable ad blockers, update your OS and/or browser, try incognito mode, check your IP reputation, and/or try a mobile device. <a href="https://community.cloudflare.com/t/i-dont-know/535972">3</a></p>
-</blockquote>
-
-<p>Edit:</p>
-
-<p>I had to sell my modest Premium Bonds to pay the bills and it didn’t work 4 times in a row on my mobile device.</p>
-
-<blockquote>
-  <p>I’m sorry to hear that - please ensure you’re using a stable internet connection when accessing the website.</p>
-</blockquote>
-
-<blockquote>
-  <p>VPN software, browser extensions and internet connection issues may interfere with the functionality of the website - please turn them off if you are using any.</p>
-</blockquote>
-
-<blockquote>
-  <p>In many cases issues can be fixed by making sure your browser is up to date or by using an alternative browser. Different browsers are more reliable on certain devices.</p>
-</blockquote>
-
-<p>Premium Bonds are held with N&amp;SI backed by HM Treasury. The. Government.</p>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[When website security doesn’t have fallbacks for visitors when using basic browser security tools.]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Mat</name></author><summary type="html"><![CDATA[Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. (Brian Kernighan)]]></summary></entry></feed>
